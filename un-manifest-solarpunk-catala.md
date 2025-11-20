@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Un Manifest Solarpunk (Català)
+permalink: /un-manifest-solarpunk-catala/
 ---
 # Un Manifest Solarpunk (Català)
 
@@ -74,5 +75,6 @@ El solarpunk és al mateix temps una visió del futur, una provocació reflexiva
 _La Comunitat Solarpunk_
 
 [![Image 7: Llicència de Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Aquesta obra està subjecta a una llicència de [Reconeixement-CompartirIgual 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/)
