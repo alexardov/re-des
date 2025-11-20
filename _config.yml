@@ -1,7 +1,7 @@
 # Site settings
 title: ReDes - Regenerative Design
 description: Solarpunk, Permaculture, Sociocracy
-url: "re-des.org"
+url: "https://re-des.org"
 baseurl: ""
 
 # Build settings
