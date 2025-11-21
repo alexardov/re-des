@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A Solarpunk Manifesto (Farsi)
+permalink: /a-solarpunk-manifesto-farsi/
 ---
 
 [دیگر زبان ها](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
@@ -87,5 +88,6 @@ title: A Solarpunk Manifesto (Farsi)
 جامعه سولارپانک
 
 [![Image 13: Creative Commons License](https://web.archive.org/web/20250207042617im_/https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
