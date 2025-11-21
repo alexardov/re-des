@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Un Manifiesto Solarpunk (Español)
-permalink: /un-manifiesto-solarpunk-español/
+permalink: /un-manifiesto-solarpunk-espanol/
 ---
 
 Durante los últimos diez años, o más, muchas personas han escrito sobre solarpunk. Sobre todo después de 2014.
@@ -54,7 +54,14 @@ El solarpunk es al mismo tiempo una visión del futuro, una provocación reflexi
     
 17.  El solarpunk es la idea de una humanidad que alcanza una evolución social que no abraza sólo la mera tolerancia, sino una más completa compasión y aceptación.
     
-18.  La estética visual del solarpunk es abierta y va evolucionando. En este momento es una mezcla de: 1. Era de la navegación a vela y del mito de la frontera ochocentistas (pero con más bicicletas) 2. Reutilización creativa de infraestructura ya existente (a veces post-apocalíptica, a veces contemporánea-estrambótica) 3. Tecnología apropiada 4. Modernismo 5. Hayao Miyazaki 6. Innovaciones al estilo «jugaard» desde los países no occidentales 7. Back ends de alta tecnología con resultados sencillos y elegantes
+18.  La estética visual del solarpunk es abierta y va evolucionando. En este momento es una mezcla de:
+    1. Era de la navegación a vela y del mito de la frontera ochocentistas (pero con más bicicletas)
+    2. Reutilización creativa de infraestructura ya existente (a veces post-apocalíptica, a veces contemporánea-estrambótica)
+    3. Tecnología apropiada
+    4. Modernismo
+    5. Hayao Miyazaki
+    6. Innovaciones al estilo «jugaard» desde los países no occidentales
+    7. Back ends de alta tecnología con resultados sencillos y elegantes
     
 19.  Los ambientes construidos del solarpunk están inspirados en los principios del nuevo urbanismo o del nuevo peatonalismo, y de la sostenibilidad medioambiental.
     
@@ -63,13 +70,14 @@ El solarpunk es al mismo tiempo una visión del futuro, una provocación reflexi
 21.  En el solarpunk nos hemos parado apenas a tiempo para frenar la lenta destrucción de nuestro planeta. Hemos aprendido a usar la ciencia sabiamente para mejorar nuestras condiciones de vida como parte de nuestro planeta. Ya no somos jefes supremos. Somos cuidadoras. Somos jardineras.
     
 22.  El solarpunk:
-    - es diverso
-    - tiene espacio para la coexistencia de espiritualidad y ciencia
-    - es bello
-    - puede pasar. Ahora.
+    1 es diverso
+    2 tiene espacio para la coexistencia de espiritualidad y ciencia
+    3 es bello
+    4 puede pasar. Ahora.
     
 
 _La Comunidad Solarpunk_
 
 Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
