@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ein Solarpunk Manifest (Deutsch)
+permalink: /ein-solarpunk-manifest-deutsch/
 ---
 
 _Übersetzt von Martin Schweizer_ _und Martin Ponweiser_
@@ -73,5 +74,6 @@ Solarpunk ist gleichzeitig eine Vision der Zukunft, eine durchdachte Provokation
     
 
 _Die Solarpunk-Community_
+
 
 Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
