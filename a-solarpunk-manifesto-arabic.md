@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A Solarpunk Manifesto (Arabic)
+permalink: /a-solarpunk-manifesto-arabic/
 ---
 
 # A Solarpunk Manifesto (Arabic)
@@ -79,5 +80,6 @@ title: A Solarpunk Manifesto (Arabic)
 مجتمع سولار بانك.
 
 [](https://web.archive.org/web/20241201233726/http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 هذا المُصنَّف مرخص بموجب [رخصة المشاع الإبداعي نَسب المُصنَّف – الترخيص بالمثل 4.0 دولي](https://web.archive.org/web/20241201233726/http://creativecommons.org/licenses/by-sa/4.0/).
