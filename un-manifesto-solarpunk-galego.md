@@ -62,7 +62,21 @@ O solarpunk é, á vez, unha visión do futuro, unha provocación reflexiva, un 
     
 17.  A cultura solarpunk inclúe todas as culturas, relixións, capacidades, sexos, xéneros e identidades sexuais.
     
-18.  A estética visual de Solarpunk está aberta e evolucionando. Tal e como está, é unha mestura do seguinte: 1. Era da navegación e o mito da fronteira do mil oitocentos (pero con máis bicicletas) 2. Reutilización creativa da infraestrutura existente (ás veces postapocalíptica, ás veces contemporánea-bizarra) 3. Tecnoloxía axeitada 4. Modernismo 5. Hayao Miyazaki 6. Innovacións ao estilo “jugaard” dende países non occidentais 7. “Back ends” de alta tecnoloxía con resultados sinxelos e elegantes
+18.  A estética visual de Solarpunk está aberta e evolucionando. Tal e como está, é unha mestura do seguinte:
+
+     1. Era da navegación e o mito da fronteira do mil oitocentos (pero con máis bicicletas)
+
+     2. Reutilización creativa da infraestrutura existente (ás veces postapocalíptica, ás veces contemporánea-bizarra)
+
+     3. Tecnoloxía axeitada
+
+     4. Modernismo
+
+     5. Hayao Miyazaki
+
+     6. Innovacións ao estilo “jugaard” dende países non occidentais
+
+     7. “Back ends” de alta tecnoloxía con resultados sinxelos e elegantes
     
 19.  O solarpunk ambiéntase nun futuro construído segundo principios do Novo Urbanismo ou do Novo Peonalismo e da sustentabilidade ambiental.
     
@@ -70,7 +84,15 @@ O solarpunk é, á vez, unha visión do futuro, unha provocación reflexiva, un 
     
 21.  No solarpunk paramos xusto a tempo para deter a lenta destrución do noso planeta. Aprendemos a usar a ciencia con sabedoría para mellorar as nosas condicións de vida como parte do noso planeta. Xa non somos xefes supremos. Somos coidadores. Somos xardineiros.
     
-22.  O solarpunk: 1. é diverso 2. ten espazo para que a espiritualidade e a ciencia convivan 3. é fermoso 4. pode ocorrer. Agora
+22.  O solarpunk:
+
+     1. é diverso
+
+     2. ten espazo para que a espiritualidade e a ciencia convivan
+
+     3. é fermoso
+
+     4. pode ocorrer. Agora
     
 
 _A Comunitade Solarpunk_
@@ -79,3 +101,4 @@ _A Comunitade Solarpunk_
 
 
 Esta obra ten unha licenza Creative Commons [Atribución-Compartir igual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+
