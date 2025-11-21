@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Un Manifesto Solarpunk (Galego)
+permalink: /un-manifesto-solarpunk-galego/
 ---
 
 # Solarpunk
@@ -75,5 +76,6 @@ O solarpunk é, á vez, unha visión do futuro, unha provocación reflexiva, un 
 _A Comunitade Solarpunk_
 
 [![Image 8: Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Esta obra ten unha licenza Creative Commons [Atribución-Compartir igual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
