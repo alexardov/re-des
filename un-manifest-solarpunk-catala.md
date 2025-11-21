@@ -61,7 +61,21 @@ El solarpunk és al mateix temps una visió del futur, una provocació reflexiva
     
 17.  El solarpunk és la idea d’una humanitat que assoleix una evolució social que abasta no només la mera tolerància, sinó una compassió i una acceptació més completes.
     
-18.  L’estètica visual de solarpunk està oberta i evolucionant. Ara és una combinació de: 1. Era de la navegació a vela i del mite de la frontera vuitcentista (però amb més bicicletes) 2. Reutilització creativa de la infraestructura existent (de vegades post-apocalíptica, de vegades contemporània-estrambòtica) 3. Tecnologia apropiada 4. Modernisme 5. Hayao Miyazaki 6. Innovacions d’estil jugaard des de països no occidentals 7. Back-ends d’alta tecnologia amb resultats senzills i elegants
+18.  L’estètica visual de solarpunk està oberta i evolucionant. Ara és una combinació de:
+
+     1. Era de la navegació a vela i del mite de la frontera vuitcentista (però amb més bicicletes)
+
+     2. Reutilització creativa de la infraestructura existent (de vegades post-apocalíptica, de vegades contemporània-estrambòtica)
+
+     3. Tecnologia apropiada
+
+     4. Modernisme
+
+     5. Hayao Miyazaki
+
+     6. Innovacions d’estil jugaard des de països no occidentals
+
+     7. Back-ends d’alta tecnologia amb resultats senzills i elegants
     
 19.  Els ambients construïts de solarpunk s’inspiren en els principis de nou urbanisme o nou pedestrianisme, i en la sostenibilitat mediambiental.
     
@@ -69,7 +83,15 @@ El solarpunk és al mateix temps una visió del futur, una provocació reflexiva
     
 21.  En el solarpunk ens hem aturat just a temps per a frenar la lenta destrucció del nostre planeta. Hem après a utilitzar la ciència sàviament per millorar les nostres condicions de vida com a part del nostre planeta. Ja no som caps suprems. Som cuidadores. Som jardineres.
     
-22.  El solarpunk: 1. és divers 2. té espai per a la convivència de l’espiritualitat i la ciència 3. és bonic 4. pot succeir. Ara
+22.  El solarpunk:
+
+     1. és divers
+
+     2. té espai per a la convivència de l’espiritualitat i la ciència
+
+     3. és bonic
+
+     4. pot succeir. Ara
     
 
 _La Comunitat Solarpunk_
@@ -78,3 +100,4 @@ _La Comunitat Solarpunk_
 
 
 Aquesta obra està subjecta a una llicència de [Reconeixement-CompartirIgual 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/)
+
