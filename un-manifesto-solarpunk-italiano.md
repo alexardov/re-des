@@ -46,23 +46,24 @@ Il solarpunk è allo stesso tempo una visione del futuro, una provocazione pensa
 16. La cultura solarpunk comprende tutte le culture, le religioni, le abilità, i sessi, i generi e le identità sessuali.
 17. Il solarpunk è l'idea di un'umanità che raggiunge un'evoluzione sociale che abbraccia non solo la semplice tolleranza, ma una più completa compassione e accettazione.
 18. L'estetica visiva del solarpunk è aperta e in evoluzione. In questo momento è un mix di:
-    - Era dalla navigazione a vela e del mito della frontiera ottocentesco (ma con più biciclette)
-    - Riutilizzo creativo delle infrastrutture esistenti (a volte post-apocalittico, a volte contemporaneo-bizzarro)
-    - Tecnologia appropriata
-    - Stile Liberty
-    - Hayao Miyazaki
-    - Innovazioni in stile «jugaad» dai paesi non occidentali
-    - Back-end high-tech con risultati semplici ed eleganti
+    1. Era dalla navigazione a vela e del mito della frontiera ottocentesco (ma con più biciclette)
+    2. Riutilizzo creativo delle infrastrutture esistenti (a volte post-apocalittico, a volte contemporaneo-bizzarro)
+    3. Tecnologia appropriata
+    4. Stile Liberty
+    5. Hayao Miyazaki
+    6. Innovazioni in stile «jugaad» dai paesi non occidentali
+    7. Back-end high-tech con risultati semplici ed eleganti
 19. Gli ambienti costruiti del solarpunk sono ispirati ai principi del Neourbanesimo o del Neopedonalismo e della sostenibilità ambientale.
 20. Il solarpunk concepisce un ambiente costruito adattato in modo creativo per, tra le altre cose, sfruttare il guadagno solare utilizzando diverse tecnologie. L'obiettivo è promuovere l'autosufficienza e il vivere entro limiti naturali.
 21. Nel solarpunk ci siamo fermati appena in tempo per frenare la lenta distruzione del nostro pianeta. Abbiamo imparato a usare la scienza con saggezza per migliorare le nostre condizioni di vita come parte del nostro pianeta. Non siamo più capi supremi. Siamo assistenti. Siamo giardinieri.
 22. Il solarpunk:
-    - è vario
-    - ha spazio per la coesistenza di spiritualità e scienza
-    - è bello
-    - può succedere. Ora
+    1. è vario
+    2. ha spazio per la coesistenza di spiritualità e scienza
+    3. è bello
+    4. può succedere. Ora
 
 *La Comunità Solarpunk*
 
 Quest'opera è distribuita con Licenza [Creative Commons Attribuzione – Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
