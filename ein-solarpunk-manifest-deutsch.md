@@ -59,12 +59,19 @@ Solarpunk ist gleichzeitig eine Vision der Zukunft, eine durchdachte Provokation
 17.  Solarpunk ist die Idee, dass die Menschheit eine soziale Evolution erreicht hat, die nicht nur bloße Toleranz umfasst, sondern auch ein umfassenderes Mitgefühl und Akzeptanz.
     
 18.  Die visuelle Ästhetik von Solarpunk ist offen und entwickelt sich weiter. Zur Zeit ist es ein Mash-up aus Folgendem:
+    
     1. Große Segelschiffe und das Pionierleben im 19. Jahrhundert (aber mit mehr Fahrrädern)
+    
     2. Kreative Wiederverwendung bestehender Infrastruktur (mal postapokalyptisch, mal zeitgenössisch-entfremdet)
+    
     3. Angepasste Technologie
+    
     4. Jugendstil
+    
     5. Hayao Miyazaki
+    
     6. Innovation im Jugaad-Stil aus der nicht-westlichen Welt
+    
     7. Hightech-Backends mit einfachen, eleganten Outputs
     
 19.  Solarpunk spielt in einer Zukunft, die nach den Prinzipien des New Urbanism oder New Pedestrianism und der ökologischen Nachhaltigkeit gebaut wurde.
@@ -74,9 +81,13 @@ Solarpunk ist gleichzeitig eine Vision der Zukunft, eine durchdachte Provokation
 21.  In Solarpunk haben wir uns gerade rechtzeitig zurückgezogen, um die langsame Zerstörung unseres Planeten zu stoppen. Wir haben gelernt, die Wissenschaft mit Bedacht einzusetzen, um unsere Lebensbedingungen als Teil unseres Planeten zu verbessern. Wir sind keine Feudalherren mehr. Wir sind die Hüter und Hüterinnen. Wir sind die Gärtner und Gärtnerinnen.
     
 22.  Solarpunk:
+    
     1. ist vielfältig
+    
     2. lässt Raum für die Koexistenz von Spiritualität und Wissenschaft
+    
     3. ist schön
+    
     4. kann stattfinden. Jetzt.
     
 
@@ -84,4 +95,5 @@ _Die Solarpunk-Community_
 
 
 Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
