@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Un Manifest Solarpunk (Français)
+permalink: /un-manifest-solarpunk-francais/
 ---
 
 _Traduit par Matthieu C._
@@ -71,5 +72,6 @@ Le Solarpunk est à la fois une vision du futur, une provocation réfléchie, un
     
 
 _La Communauté Solarpunk_
+
 
 Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution – Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
