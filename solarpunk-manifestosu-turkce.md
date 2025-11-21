@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Solarpunk Manifestosu (Türkçe)
-permalink: /solarpunk-manifestosu-türkçe/
+permalink: /solarpunk-manifestosu-turkce/
 ---
 
 # Solarpunk
@@ -97,3 +97,4 @@ _Solarpunk toplumu_
 
 
 Bu eser [Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı](http://creativecommons.org/licenses/by-sa/4.0/) ile lisanslanmıştır.
+
