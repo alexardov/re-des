@@ -69,13 +69,13 @@ Solarpunk jest jednocześnie wizją przyszłości, wnikliwą prowokacją, stylem
 17.  Solarpunk proponuje społeczną ewolucję prowadzącą nie tylko do tolerancji, ale jeszcze szerszej akceptacji i empatii.
     
 18.  Estetyka Solarpunka jest otwarta i wciąż ewoluuje. Na chwilę obecną jego największymi inspiracjami są:
-  * Swoboda XIX-wiecznego wieku żagli i życia na rubieżach – ale z rowerami!
-  * Kreatywne wykorzystanie już istniejącej infrastruktury, czasami z dość dziwnym, czasami niby-postapokaliptycznym efektem
-  * Technologia dopasowana do ludzi
-  * Art Nouveau
-  * Hayao Miyazaki
-  * Innowacyjność w stylu Jugaad i wynalazczość z Globalnego Południa
-  * Zaawansowane technologie z prostymi, eleganckimi interfejsami
+  1. Swoboda XIX-wiecznego wieku żagli i życia na rubieżach – ale z rowerami!
+  2. Kreatywne wykorzystanie już istniejącej infrastruktury, czasami z dość dziwnym, czasami niby-postapokaliptycznym efektem
+  3. Technologia dopasowana do ludzi
+  4. Art Nouveau
+  5. Hayao Miyazaki
+  6. Innowacyjność w stylu Jugaad i wynalazczość z Globalnego Południa
+  7. Zaawansowane technologie z prostymi, eleganckimi interfejsami
     
 19.  Solarpunk chce odżywalnych miast budowanych i rewitalizowanych według zasad Nowej Urbanistyki, w zgodzie z naturą, z pieszymi stawianymi na pierwszym miejscu
     
@@ -84,10 +84,11 @@ Solarpunk jest jednocześnie wizją przyszłości, wnikliwą prowokacją, stylem
 21.  Solarpunkiem zatrzymujemy się w ostatnim momencie, aby powstrzymać powolne zniszczenie naszej planety. Nauczyliśmy się, jak odpowiedzialnie używać nauki dla polepszenia naszych warunków życia – jako części ekosystemu. Nie jesteśmy już władcami Ziemi. Jesteśmy jej opiekunami. Jesteśmy ogrodnikami.
     
 22. Solarpunk:
-  - jest różnorodny
-  - daje nauce i duchowości miejsce na współistnienie
-  - jest piękny
-  - może się spełnić, już dziś.
+  1. jest różnorodny
+  2. daje nauce i duchowości miejsce na współistnienie
+  3. jest piękny
+  4. może się spełnić, już dziś.
 
 
 Ten utwór jest dostępny na [licencji Creative Commons Uznanie autorstwa-Na tych samych warunkach 4.0 Międzynarodowe](http://creativecommons.org/licenses/by-sa/4.0/).
+
