@@ -63,13 +63,20 @@ A Solarpunk egyszerre egy jövőkép, egy provokáció, egy életmód és megval
 17.  A Szoláprunk egy olyan társadalmi evolúció elérésének gondolata, ami továbbmegy a puszta toleranciánál, és egy sokkal tágabb könyörületet és elfogadást tanúsít.
     
 18.  A Solarpunk vizuális esztétikája nyílt és folyton fejlődő. Jelenleg (2019) a következők összemosása:
-    1. 1800-as évekbeli, felfedezések korszaka (csak több biciklivel)
-    2. Létező infrastruktúra kreatív újrahasznosítása (olykor posztapokaliptikus, olykor present-weird)
-    3. Ehhez illő technológia
-    4. Art Nouveau
-    5. Hayao Miyazaki
-    6. Jugaad féle innovációk a nyugaton túli világból
-    7. High-tech backend egyszerű, elegáns kimenettel
+
+      1. 1800-as évekbeli, felfedezések korszaka (csak több biciklivel)
+
+      2. Létező infrastruktúra kreatív újrahasznosítása (olykor posztapokaliptikus, olykor present-weird)
+
+      3. Ehhez illő technológia
+
+      4. Art Nouveau
+
+      5. Hayao Miyazaki
+
+      6. Jugaad féle innovációk a nyugaton túli világból
+
+      7. High-tech backend egyszerű, elegáns kimenettel
     
 19.  A Solarpunk jövőbeli települései az Új Urbanizmus vagy az Új Gyalogosság és a környezetbarát fenntarthatóság elvei alapján épülnek.
     
@@ -78,9 +85,13 @@ A Solarpunk egyszerre egy jövőkép, egy provokáció, egy életmód és megval
 21.  A Solarpunkban képesek voltunk még pont időben megállítani bolygónk lassú pusztulását. Megtanultuk a tudományt bölcsen alkalmazni életkörülményeink jobbítására, a bolygóval nem szembemenve. Többé nem földesurak vagyunk. Gondnokok vagyunk. Kertészek vagyunk.
     
 22.  A Solarpunk:
+    
     1. diverz
+    
     2. helyet hagy a spiritualitás és a tudomány együttélésére
+    
     3. szép
+    
     4. megtörténhet. Már most.
     
 
@@ -90,4 +101,5 @@ _A Solarpunk közösség_
 
 
 Ez a Mű a [Creative Commons Nevezd meg! – Így add tovább! 4.0 Nemzetközi Licenc](http://creativecommons.org/licenses/by-sa/4.0/) feltételeinek megfelelően felhasználható.
+
 
