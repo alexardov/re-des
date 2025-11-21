@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A Solarpunk Manifesto (Russian)
+permalink: /a-solarpunk-manifesto-russian/
 ---
 
 # Соларпанк
@@ -77,5 +78,6 @@ _Перевод Александра Шабалина_
 _Сообщество Solarpunk_
 
 [![Image 13: Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
