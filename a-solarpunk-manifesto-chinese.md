@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A Solarpunk Manifesto (Chinese)
+permalink: /a-solarpunk-manifesto-chinese/
 ---
 
 # 太阳朋克
@@ -94,5 +95,6 @@ title: A Solarpunk Manifesto (Chinese)
 4、可以发生，就在当下
 
 _\_太阳朋克社群\__‘
+
 
 [![Image 13: Licenza Creative Commons](https://web.archive.org/web/20250207061053im_/https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/) 本作品采用[知识共享署名-相同方式共享4.0国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)。
