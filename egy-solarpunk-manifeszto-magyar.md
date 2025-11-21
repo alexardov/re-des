@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Egy Solarpunk Manifeszto (Magyar)
+permalink: /egy-solarpunk-manifeszto-magyar/
 ---
 
 # Solarpunk
@@ -75,5 +76,6 @@ A Solarpunk egyszerre egy jövőkép, egy provokáció, egy életmód és megval
 _A Solarpunk közösség_
 
 [![Image 8: Creative Commons Licenc](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Ez a Mű a [Creative Commons Nevezd meg! – Így add tovább! 4.0 Nemzetközi Licenc](http://creativecommons.org/licenses/by-sa/4.0/) feltételeinek megfelelően felhasználható.
