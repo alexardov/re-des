@@ -59,13 +59,20 @@ Solarpank je ujedno vizija budućnosti, promišljena provokacija, način života
 17.  Solarpank je ideja o tome da čovečansto postigne društvenu evoluciju koja obuhvata ne samo puku toleranciju već i šire saosećanje i prihvatanje.
     
 18.  Vizuelna estetika Solarpanka je otvorena i razvijajuća. Kako za sada izgleda, mešavina je sledećeg:
-    1. Doba jedrenjaka / život na granicama iz 1800-tih (ali sa više bicikala)
-    2. Kreativna ponovna upotreba postojeće infrastrukture (ponekad postapokaliptična, ponekad čudna)
-    3. Odgovarajuća tehnologija
-    4. Art Nouveau
-    5. Hayao Miyazaki
-    6. Inovacija u Jugaad stilu iz ne-zapadnog sveta
-    7. Visokotehnološki backend sa jednostavnim, elegantnim rezultatima
+
+     1. Doba jedrenjaka / život na granicama iz 1800-tih (ali sa više bicikala)
+
+     2. Kreativna ponovna upotreba postojeće infrastrukture (ponekad postapokaliptična, ponekad čudna)
+
+     3. Odgovarajuća tehnologija
+
+     4. Art Nouveau
+
+     5. Hayao Miyazaki
+
+     6. Inovacija u Jugaad stilu iz ne-zapadnog sveta
+
+     7. Visokotehnološki backend sa jednostavnim, elegantnim rezultatima
     
 19.  Solarpank je zamišljen u budućnosti izgrađenoj po principima novog urbanizma ili novog pešaštva i održivosti životne sredine.
     
@@ -74,10 +81,14 @@ Solarpank je ujedno vizija budućnosti, promišljena provokacija, način života
 21.  U Solarpanku smo se povukli baš na vreme da zaustavimo sporo uništenje naše planete. Naučili smo da mudro koristimo nauku za poboljšanje naših životnih uslova kao dela planete. Nismo više nadmoćni. Mi smo kućepazitelji. Mi smo baštovani.
     
 22.  Solarpank:
-    1. je raznolik
-    2. pun prostora za zajedničko postojanje duhovnosti i nauke
-    3. je prelep
-    4. može da se ostvari. Sada
+
+     1. je raznolik
+
+     2. pun prostora za zajedničko postojanje duhovnosti i nauke
+
+     3. je prelep
+
+     4. može da se ostvari. Sada
     
 
 _Solarpank Zajednica_
@@ -86,4 +97,5 @@ _Solarpank Zajednica_
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
