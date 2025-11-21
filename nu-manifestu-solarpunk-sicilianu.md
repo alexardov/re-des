@@ -62,7 +62,14 @@ U solarpunk è ô stissu tempu na visiuni dû futuru, na pruvucazzioni pinzanti,
     
 17.  U solarpunk è l’idea di l’umanità ca ragghiunci n’evuluzzioni suciali ca abbrazza nun sulu a sìmplici tulliranza, ma na cchiù cumpleta cumpassiuni e accittazzioni.
     
-18.  L’estètica visiva dû solarpunk è raputa e ‘n evuluzzioni. Nta stu mumentu è n’ammiscata di: 1. Era dâ navigazzioni a vela e dû mitu dâ fruntera ottucintiscu (ma cu cchiù assai bicicletti) 2. U riusu criativu dî nfrastrutturi esistenti (ê voti post-apucalìtticu, ê voti cuntimpuraniu-streusu) 3. Tecnuluggìa appriupiata 4. Stili Liberty 5. Hayao Miyazaki 6. Nnuvazzioni ‘n stili «jugaad» dî pajisi nun-punintini 7. Back-end high-tech cu risurtati sìmplici e puliti
+18.  L’estètica visiva dû solarpunk è raputa e ‘n evuluzzioni. Nta stu mumentu è n’ammiscata di:
+    1. Era dâ navigazzioni a vela e dû mitu dâ fruntera ottucintiscu (ma cu cchiù assai bicicletti)
+    2. U riusu criativu dî nfrastrutturi esistenti (ê voti post-apucalìtticu, ê voti cuntimpuraniu-streusu)
+    3. Tecnuluggìa appriupiata
+    4. Stili Liberty
+    5. Hayao Miyazaki
+    6. Nnuvazzioni ‘n stili «jugaad» dî pajisi nun-punintini
+     7. Back-end high-tech cu risurtati sìmplici e puliti
     
 19.  L’ammienti custrujuti dû solarpunk su’ ispirati ê principi dû Neurbanìsimu ô dû Neupidunalìsimu e dâ sustinibbilità ammintali.
     
@@ -70,7 +77,11 @@ U solarpunk è ô stissu tempu na visiuni dû futuru, na pruvucazzioni pinzanti,
     
 21.  Ntô solarpunk ni firmammu giustu ‘n tempu pi frinari a lenta distruzzioni dû nostru chianita. Ni nzignammu a usari a scenza cu saggizza, pi ammigghiurari i nostri cunnizziona comu parti dû nostru chianita. Nun semu cchiù capi supremi. Semu assistenti. Semu jardinari.
     
-22.  U solarpunk: 1. è variu 2. àvi spazziu pâ cuisistenza di spiritualità e scenza 3. è beḍḍu 4. po succèdiri. Ora
+22.  U solarpunk:
+    1. è variu
+    2. àvi spazziu pâ cuisistenza di spiritualità e scenza
+    3. è beḍḍu
+    4. po succèdiri. Ora
     
 
 _La Comunità Solarpunk_
@@ -79,3 +90,4 @@ _La Comunità Solarpunk_
 
 
 Quest’opera è distribuita con Licenza [Creative Commons Attribuzione – Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/).
+
