@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Solarpunk Manifestosu (Türkçe)
+permalink: /solarpunk-manifestosu-türkçe/
 ---
 
 # Solarpunk
@@ -93,5 +94,6 @@ düşlenilen geleceğe ulaşmak için bir dizi ulaşılabilir öneridir.
 _Solarpunk toplumu_
 
 [![Image 13: Creative Commons Lisansı](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Bu eser [Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı](http://creativecommons.org/licenses/by-sa/4.0/) ile lisanslanmıştır.
