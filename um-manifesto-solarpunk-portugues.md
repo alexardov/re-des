@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Um Manifesto Solarpunk (Português)
+permalink: /um-manifesto-solarpunk-portugues/
 ---
 # Um Manifesto Solarpunk (Português – Brasil)
 
@@ -70,5 +71,6 @@ Solarpunk é ao mesmo tempo uma visão do futuro, uma provocação ponderada, um
 ```
 
 [![Image 8: Licença Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Este obra está licenciado com uma Licença [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
