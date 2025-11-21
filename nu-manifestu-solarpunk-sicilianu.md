@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nu Manifestu Solarpunk (Sicilianu)
+permalink: /nu-manifestu-solarpunk-sicilianu/
 ---
 
 # Solarpunk
@@ -75,5 +76,6 @@ U solarpunk è ô stissu tempu na visiuni dû futuru, na pruvucazzioni pinzanti,
 _La Comunità Solarpunk_
 
 [![Image 13: Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Quest’opera è distribuita con Licenza [Creative Commons Attribuzione – Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/).
