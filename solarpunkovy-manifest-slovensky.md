@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Solarpunkovy Manifest (Slovensky)
+permalink: /solarpunkovy-manifest-slovensky/
 ---
 # Solarpunkový manifest (Slovensky)
 
@@ -84,5 +85,6 @@ post-apokalyptické, niekedy novodobo-podivné).
 _Spoločnosť Solarpunk_
 
 [![Image 13: Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Toto dielo je licencované pod a [Medzinárodná licencia Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
