@@ -63,13 +63,20 @@ Solarpunka, etorkizunaren ikuspegi bat da, probokazio gogoetatsu bat, bizitzeko 
 17.  Solarpunka tolerantzia hutsa ez ezik, erruki eta onarpen osoagoa ere besarkatzen duen bilakaera soziala lortzen duen gizateriaren ideia da.
     
 18.  Solarpunkaren estetika bisuala irekia da eta eboluzionatuz doa. Une honetan, honako hauek nahasten dira:
-    1. Bela nabigazioa eta 1800. urteko mugaren mitoaren estiloko bizimodua (baina bizikleta gehiagorekin).
-    2. Lehendik dagoen azpiegituraren berrerabilpen sortzailea (batzuetan post-apokaliptikoa, batzuetan garaikide-arraroa).
-    3. Teknologia egokia.
-    4. Art Nouveau.
-    5. Hayao Miyazaki.
-    6. Jugaad estiloko berrikuntzak mendebaldekoak ez diren herrialdeetatik.
-    7. Teknologia altuko _backend-ak_ , emaitza erraz eta dotoreekin.
+
+     1. Bela nabigazioa eta 1800. urteko mugaren mitoaren estiloko bizimodua (baina bizikleta gehiagorekin).
+
+     2. Lehendik dagoen azpiegituraren berrerabilpen sortzailea (batzuetan post-apokaliptikoa, batzuetan garaikide-arraroa).
+
+     3. Teknologia egokia.
+
+     4. Art Nouveau.
+
+     5. Hayao Miyazaki.
+  
+     6. Jugaad estiloko berrikuntzak mendebaldekoak ez diren herrialdeetatik.
+   
+     7. Teknologia altuko _backend-ak_ , emaitza erraz eta dotoreekin.
     
 19.  Solarpunkaren ingurune eraikiak hirigintza berriaren edo oinezkoentzat pentsatutako printzipioetan eta ingurumenaren iraunkortasunean inspiratuta daude.
     
@@ -78,10 +85,14 @@ Solarpunka, etorkizunaren ikuspegi bat da, probokazio gogoetatsu bat, bizitzeko 
 21.  Solarpunkean gure planetaren suntsipen geldoa geldiarazteko ia berandu gelditu gara. Zientzia zentzuz erabiltzen ikasi dugu, gure planetaren parte gisa gure bizi-baldintzak hobetzeko. Jada ez gara nagusi gorenak. Zaintzaileak gara. Lorezainak gara.
     
 22.  Solarpunka:
-    1. Anitza da.
-    2. Espiritualtasuna eta zientzia elkarrekin egoteko lekua du.
-    3. Ederra da.
-    4. Oraintxe gerta daiteke.
+
+      1. Anitza da.
+
+      2. Espiritualtasuna eta zientzia elkarrekin egoteko lekua du.
+
+      3. Ederra da.
+
+      4. Oraintxe gerta daiteke.
     
 
 _Solarpunk komunitatea_
@@ -90,4 +101,5 @@ _Solarpunk komunitatea_
 
 
 lan hau [Creative Commons Aitortu-PartekatuBerdin 4.0 Nazioartekoa lizentzia](http://creativecommons.org/licenses/by-sa/4.0/) baten mende dago.
+
 
