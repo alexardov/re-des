@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Solarpunk Manifestu Bat (Euskera)
+permalink: /solarpunk-manifestu-bat-euskera/
 ---
 
 # Solarpunk
@@ -75,5 +76,6 @@ Solarpunka, etorkizunaren ikuspegi bat da, probokazio gogoetatsu bat, bizitzeko 
 _Solarpunk komunitatea_
 
 [![Image 7: Creative Commons lizentzia](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
 lan hau [Creative Commons Aitortu-PartekatuBerdin 4.0 Nazioartekoa lizentzia](http://creativecommons.org/licenses/by-sa/4.0/) baten mende dago.
