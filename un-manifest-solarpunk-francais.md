@@ -56,7 +56,21 @@ Le Solarpunk est à la fois une vision du futur, une provocation réfléchie, un
     
 17.  Le Solarpunk est l’idée d’une humanité qui atteindrait une évolution sociale qui n’embrasserait pas seulement une simple tolérance, mais également une compassion et une acceptation plus complètes.
     
-18.  Les esthétiques visuelles du Solarpunk sont ouvertes et évolutives. En l’état, c’est un mashup de : 1. L’âge de la voile et le mythe de la Frontière des années 1800 (mais avec plus de bicyclettes) 2. La réutilisation créative d’infrastructures existantes (parfois post-apocalyptiques, parfois contemporaines-étranges) 3. Une technologie appropriée 4. L’Art Nouveau 5. Hayao Miyazaki 6. Des innovations dans le style Jugaad provenant du monde non-Occidental 7. Des back-ends des techniques de pointe avec des résultats simples et élégants
+18.  Les esthétiques visuelles du Solarpunk sont ouvertes et évolutives. En l’état, c’est un mashup de :
+
+     1. L’âge de la voile et le mythe de la Frontière des années 1800 (mais avec plus de bicyclettes)
+
+     2. La réutilisation créative d’infrastructures existantes (parfois post-apocalyptiques, parfois contemporaines-étranges)
+
+     3. Une technologie appropriée
+
+     4. L’Art Nouveau
+
+     5. Hayao Miyazaki
+
+     6. Des innovations dans le style Jugaad provenant du monde non-Occidental
+
+     7. Des back-ends des techniques de pointe avec des résultats simples et élégants
     
 19.  Le Solarpunk se passe dans un futur bâti en suivant les principes du nouvel urbanisme ou du nouveau piétonnisme ainsi que de la durabilité environnementale.
     
@@ -65,13 +79,18 @@ Le Solarpunk est à la fois une vision du futur, une provocation réfléchie, un
 21.  Dans le Solarpunk, nous avons réussi à faire machine arrière juste à temps pour arrêter la lente destruction de notre planète. Nous avons appris à utiliser la science avec sagesse, pour l’amélioration de notre condition de vie en tant que partie de notre planète. Nous ne sommes plus des chef•fe•s suprêmes. Nous sommes des soigneur•se•s. Nous sommes des jardinier•ère•s.
     
 22.  Le Solarpunk :
-    - est diversifié
-    - a de la place pour que spiritualité et science puissent coexister
-    - est beau
-    - peut arriver. Maintenant.
+    
+    1. est diversifié
+    
+    2. a de la place pour que spiritualité et science puissent coexister
+   
+    3. est beau
+    
+    4. peut arriver. Maintenant.
     
 
 _La Communauté Solarpunk_
 
 
 Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution – Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+
