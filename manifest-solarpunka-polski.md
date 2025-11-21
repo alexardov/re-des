@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Manifest Solarpunka (Polski)
+permalink: /manifest-solarpunka-polski/
 ---
 
 _Przetłumaczone przez [Pawła Ngei](https://alxd.org/manifest-solarpunka-pl.html), Martynę Łysiakiewicz_
@@ -87,5 +88,6 @@ Solarpunk jest jednocześnie wizją przyszłości, wnikliwą prowokacją, stylem
   - daje nauce i duchowości miejsce na współistnienie
   - jest piękny
   - może się spełnić, już dziś.
+
 
 Ten utwór jest dostępny na [licencji Creative Commons Uznanie autorstwa-Na tych samych warunkach 4.0 Międzynarodowe](http://creativecommons.org/licenses/by-sa/4.0/).
