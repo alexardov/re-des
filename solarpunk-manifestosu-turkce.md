@@ -104,13 +104,13 @@ düşlenilen geleceğe ulaşmak için bir dizi ulaşılabilir öneridir.
     
 22.  Solarpunk:
 
-    1. çeşitlidir
+     1. çeşitlidir
 
-    2. maneviyat ve bilimin bir arada var olması için yer var
+     2. maneviyat ve bilimin bir arada var olması için yer var
     
-    3. güzeldir
+     3. güzeldir
    
-    4. gerçekleşebilir. Hemen Şimdi
+     4. gerçekleşebilir. Hemen Şimdi
     
 
 _Solarpunk toplumu_
@@ -119,6 +119,7 @@ _Solarpunk toplumu_
 
 
 Bu eser [Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı](http://creativecommons.org/licenses/by-sa/4.0/) ile lisanslanmıştır.
+
 
 
 
