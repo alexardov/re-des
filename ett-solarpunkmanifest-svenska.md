@@ -64,19 +64,19 @@ Solarpunk är på en och samma gång en framtidsvision, en tankfull provokation,
     
 18.  Solarpunkens visuella estetiker är öppna och utvecklas. Just nu är det en blandning av följande:
     
- 1. 1800-tal/segelfartygens tid/utpostsliv (med fler cyklar).
+     1. 1800-tal/segelfartygens tid/utpostsliv (med fler cyklar).
 
- 2. Kreativ återanvändning av existerande infrastruktur (ibland post-apokalyptisk, ibland nutid-fast-annorlunda)
+     2. Kreativ återanvändning av existerande infrastruktur (ibland post-apokalyptisk, ibland nutid-fast-annorlunda)
  
- 3. Lämplig teknologi.
+     3. Lämplig teknologi.
 
- 4. Art nouveau.
+     4. Art nouveau.
 
- 5. Hayao Miyazaki.
+     5. Hayao Miyazaki.
 
- 6. Jugaad-aktig uppfinningsrikhet från icke-Västvärlden.
+     6. Jugaad-aktig uppfinningsrikhet från icke-Västvärlden.
  
- 7. Högteknologiska backends med simpel, elegant output.
+     7. Högteknologiska backends med simpel, elegant output.
     
 19.  Solarpunk utspelar sig i en framtid byggd enligt nyurbanismens eller nypedestrianismens principer, samt ekologisk hållbarhet.
     
@@ -100,5 +100,6 @@ _Solarpunk-gemenskapen_
 [![Image 13: Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Detta verk är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
