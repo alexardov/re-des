@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A Solarpunk Manifesto (Hebrew)
+permalink: /a-solarpunk-manifesto-hebrew/
 ---
 
 [שפות אחרות](https://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
@@ -100,3 +101,4 @@ title: A Solarpunk Manifesto (Hebrew)
 
 
 עבודה זו מורשית במסגרת רישיון בינלאומי[Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+
