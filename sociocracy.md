@@ -6,7 +6,7 @@ permalink: /sociocracy/
 
 # Sociocracy
 
-ReDes – Regenerative Design offers trainings, consultancies and designs in [permaculture](/permaculture/) and sociocracy. Click [here](/cursos-eventos/) to see them.
+ReDes – Regenerative Design offers talks, trainings, consultancies and designs in [solarpunk](/solarpunk/), [permaculture](/permaculture/) and sociocracy. 
 
 ## What is Sociocracy
 
