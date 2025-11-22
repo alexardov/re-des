@@ -86,13 +86,13 @@ A Solarpunk egyszerre egy jövőkép, egy provokáció, egy életmód és megval
     
 22.  A Solarpunk:
     
-    1. diverz
+     1. diverz
     
-    2. helyet hagy a spiritualitás és a tudomány együttélésére
+     2. helyet hagy a spiritualitás és a tudomány együttélésére
     
-    3. szép
+     3. szép
     
-    4. megtörténhet. Már most.
+     4. megtörténhet. Már most.
     
 
 _A Solarpunk közösség_
@@ -101,5 +101,6 @@ _A Solarpunk közösség_
 
 
 Ez a Mű a [Creative Commons Nevezd meg! – Így add tovább! 4.0 Nemzetközi Licenc](http://creativecommons.org/licenses/by-sa/4.0/) feltételeinek megfelelően felhasználható.
+
 
 
