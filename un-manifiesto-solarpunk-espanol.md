@@ -56,19 +56,19 @@ El solarpunk es al mismo tiempo una visión del futuro, una provocación reflexi
     
 18.  La estética visual del solarpunk es abierta y va evolucionando. En este momento es una mezcla de:
     
-    1. Era de la navegación a vela y del mito de la frontera ochocentistas (pero con más bicicletas)
+        1. Era de la navegación a vela y del mito de la frontera ochocentistas (pero con más bicicletas)
     
-    2. Reutilización creativa de infraestructura ya existente (a veces post-apocalíptica, a veces contemporánea-estrambótica)
+        2. Reutilización creativa de infraestructura ya existente (a veces post-apocalíptica, a veces contemporánea-estrambótica)
     
-    3. Tecnología apropiada
+        3. Tecnología apropiada
     
-    4. Modernismo
+        4. Modernismo
     
-    5. Hayao Miyazaki
+        5. Hayao Miyazaki
     
-    6. Innovaciones al estilo «jugaard» desde los países no occidentales
+        6. Innovaciones al estilo «jugaard» desde los países no occidentales
     
-    7. Back ends de alta tecnología con resultados sencillos y elegantes
+        7. Back ends de alta tecnología con resultados sencillos y elegantes
     
 19.  Los ambientes construidos del solarpunk están inspirados en los principios del nuevo urbanismo o del nuevo peatonalismo, y de la sostenibilidad medioambiental.
     
@@ -78,18 +78,19 @@ El solarpunk es al mismo tiempo una visión del futuro, una provocación reflexi
     
 22.  El solarpunk:
     
-    1 es diverso
+        1 es diverso
     
-    2 tiene espacio para la coexistencia de espiritualidad y ciencia
+        2 tiene espacio para la coexistencia de espiritualidad y ciencia
     
-    3 es bello
+        3 es bello
     
-    4 puede pasar. Ahora.
+        4 puede pasar. Ahora.
     
 
 _La Comunidad Solarpunk_
 
 Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
