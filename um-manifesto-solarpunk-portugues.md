@@ -65,19 +65,19 @@ Solarpunk é ao mesmo tempo uma visão do futuro, uma provocação ponderada, um
 
 18.  A estética visual do Solarpunk está aberta e evoluindo. Assim como essa, é um mash-up das seguintes:
 
-  1.    Era das navegações a vela/fronteira do século XIX (mas com mais bicicletas). 
+    1.    Era das navegações a vela/fronteira do século XIX (mas com mais bicicletas). 
   
-  2.    Reutilização criativa da infraestrutura existente (às vezes pós-apocalíptica, às vezes estranha no presente). 
+    2.    Reutilização criativa da infraestrutura existente (às vezes pós-apocalíptica, às vezes estranha no presente). 
   
-  3.    Apropriação Tecnológica. 
+    3.    Apropriação Tecnológica. 
+    
+    4.    Art Nouveau. 
   
-  4.    Art Nouveau. 
+    5.    Hayao Miyazaki. 
   
-  5.    Hayao Miyazaki. 
+    6.    Inovação no estilo “Jugaad” do mundo não ocidental. 
   
-  6.    Inovação no estilo “Jugaad” do mundo não ocidental. 
-  
-  7.    Back-end de alta tecnologia com saídas simples e elegantes. 
+    7.    Back-end de alta tecnologia com saídas simples e elegantes. 
 
 19.  Solarpunk é definido em um futuro construído de acordo com os princípios do Novo Urbanismo ou Novo Pedestre e sustentabilidade ambiental.
 
@@ -87,17 +87,18 @@ Solarpunk é ao mesmo tempo uma visão do futuro, uma provocação ponderada, um
 
 22.  Solarpunk:
 
-  1.    é diversidade 
+    1.    é diversidade 
   
-  2.    tem espaço para a espiritualidade e a ciência coexistirem 
+    2.    tem espaço para a espiritualidade e a ciência coexistirem 
   
-  3.    é belo 
+    3.    é belo 
   
-  4.    pode acontecer. Agora. 
+    4.    pode acontecer. Agora. 
 
 [![Image 8: Licença Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 
 Este obra está licenciado com uma Licença [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
