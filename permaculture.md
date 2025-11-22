@@ -6,7 +6,7 @@ permalink: /permaculture/
 
 # Permaculture
 
-An ethical, resilient design system that works with natural systems to create abundant environments for people and the planet.
+ReDes – Regenerative Design offers talks, trainings, consultancies and designs in [solarpunk](/solarpunk/), permaculture and [sociocracy](/sociocracy/). 
 
 ## Learn More
 - [What is permaculture?](/what-is-permaculture/)
@@ -22,3 +22,4 @@ An ethical, resilient design system that works with natural systems to create ab
 - [European Permaculture Teachers (EPT) partnership](https://permateachers.eu/)
 
 - [Youth in Permaculture](https://www.facebook.com/youthinpermaculture/)
+
