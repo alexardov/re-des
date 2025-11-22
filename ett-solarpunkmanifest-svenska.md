@@ -54,6 +54,7 @@ Solarpunk är på en och samma gång en framtidsvision, en tankfull provokation,
     5. Hayao Miyazaki.   
     6. Jugaad-aktig uppfinningsrikhet från icke-Västvärlden.   
     7. Högteknologiska backends med simpel, elegant output.    
+    
 19.  Solarpunk utspelar sig i en framtid byggd enligt nyurbanismens eller nypedestrianismens principer, samt ekologisk hållbarhet.    
 20.  Solarpunk föreställer sig en miljö byggd och kreativt anpassad för solenergi, bland annat, genom olika teknologier. Målet är att framhålla självförsörjning och att leva inom naturliga begränsningar.    
 21.  Inom solarpunk har vi bromsat precis i tid för att sakta in planetens förstörelse. Vi har lärt oss att med vishet använda vetenskap, för att förbättra våra livsvillkor som en del av planeten. Vi är inte längre härskare. Vi är vårdare. Vi är trädgårdsmästare.    
@@ -68,6 +69,7 @@ _Solarpunk-gemenskapen_
 [![Image 13: Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Detta verk är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
