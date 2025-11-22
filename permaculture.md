@@ -11,7 +11,7 @@ ReDes – Regenerative Design offers talks, trainings, consultancies and designs
 ## Learn More
 - [What is permaculture?](/what-is-permaculture/)
 
-## Organizations & Networks I was an active part of
+## Organizations & Networks Aless was an active part of
 
 - [Academia de Permacultura Íbera](https://academiapermaculturaibera.org/)
 - [Nordic Permaculture Academy](https://nordicpermacultureacademy.org/)
@@ -19,7 +19,10 @@ ReDes – Regenerative Design offers talks, trainings, consultancies and designs
 - [Seeds for Sustainability](https://seeds-for-sustainability.com/en/)
 - [European Permaculture Network](https://permaculture-network.eu/)
 - [Permacultura Íbera](https://www.permaculturaibera.org/)
+- [BiorNE - Biorregión NorEste de Permacultura íbera](https://www.facebook.com/groups/pb.comunidad.eventos)
 - [European Permaculture Teachers (EPT) partnership](https://permateachers.eu/)
 - [Youth in Permaculture](https://www.facebook.com/youthinpermaculture/)
+- [Permacultura Barcelona](https://www.facebook.com/PermaculturaBarcelona)
+- [Bosque Comestible Permacultura Barcelona](https://www.facebook.com/groups/pb.bosquescomestibles)
 
 
