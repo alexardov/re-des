@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: rtl
 title: A Solarpunk Manifesto (Hebrew)
 permalink: /a-solarpunk-manifesto-hebrew/
+lang: he
 ---
 
 [שפות אחרות](https://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
@@ -101,4 +102,5 @@ permalink: /a-solarpunk-manifesto-hebrew/
 
 
 עבודה זו מורשית במסגרת רישיון בינלאומי[Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
