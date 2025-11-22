@@ -2,9 +2,8 @@
 layout: default
 title: A Solarpunk Manifesto (Arabic)
 permalink: /a-solarpunk-manifesto-arabic/
+lang: ar
 ---
-
-<div dir="rtl" lang="ar" style="direction: rtl; text-align: right;">
 
 # A Solarpunk Manifesto (Arabic)
 
@@ -107,6 +106,7 @@ permalink: /a-solarpunk-manifesto-arabic/
 
 
 هذا المُصنَّف مرخص بموجب [رخصة المشاع الإبداعي نَسب المُصنَّف – الترخيص بالمثل 4.0 دولي](https://web.archive.org/web/20241201233726/http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
