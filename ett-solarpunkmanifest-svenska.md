@@ -86,20 +86,20 @@ Solarpunk är på en och samma gång en framtidsvision, en tankfull provokation,
     
 22.  Solarpunk
   
-   1. är mångfaldigt.
+    1. är mångfaldigt.
   
-   2. har rum för vetenskap och spiritualitet att samexistera.
+    2. har rum för vetenskap och spiritualitet att samexistera.
   
-   3. är vackert.
+    3. är vackert.
   
-   4. kan hända. Nu.
-    
+    4. kan hända. Nu.
 
 _Solarpunk-gemenskapen_
 
 [![Image 13: Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Detta verk är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
