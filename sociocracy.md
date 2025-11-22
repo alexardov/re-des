@@ -26,7 +26,7 @@ Sociocracy, or Dynamic Governance, is a system of governance of groups, regardle
 
 #### Sociocracy is based on **four principles**:
 
-![The sociocratic structure of Permacultura Íbera](/wp-content/uploads/2019/10/Estructura-PI-8-Anillos-1024x1024.png)
+![The sociocratic structure of Permacultura Íbera]({{ '/assets/images/Estructura-PI-8-Anillos.png' | relative_url }})
 *The sociocratic structure of [Permacultura Íbera](http://www.permaculturaibera.org/) in which the Circles take the names of Rings.*
 
 1. **Consent decision making**. In sociocracy a distinction is made between political decisions (policies that affect the functioning of the group) and operational decisions. Consent is used for political decisions. Perfection is not sought. The decisions have to be **good enough for now and safe enough to try**. If there are no rational, logical and valid reasons to object to a proposal, it becomes a decision. A decision always has a review date (usually after six months).
@@ -46,7 +46,7 @@ Sociocracy, or Dynamic Governance, is a system of governance of groups, regardle
 
 ## Understanding the Sociocracy Mind Map
 
-![Sociocracy Mind Map](/wp-content/uploads/2023/10/Sociocracy-24.10.2023-COLORS-CC-1024x1024.png)
+![Sociocracy Mind Map]({{ '/assets/images/Sociocracy 24.10.2023 COLORS CC.png' | relative_url }})
 
 This mind map is made up of bubbles, lines and arrows.
 
