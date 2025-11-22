@@ -88,13 +88,13 @@ _Перевод Александра Шабалина_
     
 22.  Соларпанк:
     
-    1. разнообразен
+     1. разнообразен
     
-    2. в нем духовность и наука сосуществовуют
+     2. в нем духовность и наука сосуществовуют
     
-    3. прекрасен
+     3. прекрасен
     
-    4. может стать явью.Сейчаc
+     4. может стать явью.Сейчаc
     
 
 _Сообщество Solarpunk_
@@ -103,5 +103,6 @@ _Сообщество Solarpunk_
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
