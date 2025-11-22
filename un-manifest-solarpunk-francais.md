@@ -80,17 +80,18 @@ Le Solarpunk est à la fois une vision du futur, une provocation réfléchie, un
     
 22.  Le Solarpunk :
     
-    1. est diversifié
+     1. est diversifié
     
-    2. a de la place pour que spiritualité et science puissent coexister
+     2. a de la place pour que spiritualité et science puissent coexister
    
-    3. est beau
+     3. est beau
     
-    4. peut arriver. Maintenant.
+     4. peut arriver. Maintenant.
     
 
 _La Communauté Solarpunk_
 
 
 Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution – Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
