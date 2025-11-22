@@ -192,7 +192,7 @@
         </div>
     </header>
 
-    <main class="main-content">
+  <main class="main-content{% if page.lang == 'ar' or page.lang == 'fa' or page.lang == 'he' %} rtl-content{% endif %}"{% if page.dir %} dir="{{ page.dir }}"{% endif %}{% if page.lang %} lang="{{ page.lang }}"{% endif %}>
         {{ content }}
     </main>
 
