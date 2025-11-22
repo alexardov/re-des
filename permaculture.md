@@ -11,7 +11,7 @@ ReDes – Regenerative Design offers talks, trainings, consultancies and designs
 ## Learn More
 - [What is permaculture?](/what-is-permaculture/)
 
-## Organizations & Networks
+## Organizations & Networks I was an active part of
 
 - [Academia de Permacultura Íbera](https://academiapermaculturaibera.org/)
 - [Nordic Permaculture Academy](https://nordicpermacultureacademy.org/)
@@ -20,6 +20,6 @@ ReDes – Regenerative Design offers talks, trainings, consultancies and designs
 - [European Permaculture Network](https://permaculture-network.eu/)
 - [Permacultura Íbera](https://www.permaculturaibera.org/)
 - [European Permaculture Teachers (EPT) partnership](https://permateachers.eu/)
-
 - [Youth in Permaculture](https://www.facebook.com/youthinpermaculture/)
+
 
