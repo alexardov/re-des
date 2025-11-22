@@ -4,8 +4,6 @@ title: Sociocracy
 permalink: /sociocracy/
 ---
 
-# Sociocracy
-
 ReDes – Regenerative Design offers talks, trainings, consultancies and designs in [solarpunk](/solarpunk/), [permaculture](/permaculture/) and sociocracy. 
 
 ## What is Sociocracy
@@ -26,7 +24,8 @@ Sociocracy, or Dynamic Governance, is a system of governance of groups, regardle
 
 #### Sociocracy is based on **four principles**:
 
-![The sociocratic structure of Permacultura Íbera]({{ '/assets/images/Estructura-PI-8-Anillos.png' | relative_url }})
+<img src="{{ '/assets/images/Estructura-PI-8-Anillos.png' | relative_url }}" alt="The sociocratic structure of Permacultura Íbera" style="max-width: 500px; width: 100%; height: auto; margin: 1.5rem 0;">
+
 *The sociocratic structure of [Permacultura Íbera](http://www.permaculturaibera.org/) in which the Circles take the names of Rings.*
 
 1. **Consent decision making**. In sociocracy a distinction is made between political decisions (policies that affect the functioning of the group) and operational decisions. Consent is used for political decisions. Perfection is not sought. The decisions have to be **good enough for now and safe enough to try**. If there are no rational, logical and valid reasons to object to a proposal, it becomes a decision. A decision always has a review date (usually after six months).
@@ -46,7 +45,7 @@ Sociocracy, or Dynamic Governance, is a system of governance of groups, regardle
 
 ## Understanding the Sociocracy Mind Map
 
-![Sociocracy Mind Map]({{ '/assets/images/Sociocracy 24.10.2023 COLORS CC.png' | relative_url }})
+<img src="{{ '/assets/images/Sociocracy 24.10.2023 COLORS CC.png' | relative_url }}" alt="Sociocracy Mind Map" style="max-width: 600px; width: 100%; height: auto; margin: 1.5rem 0;">
 
 This mind map is made up of bubbles, lines and arrows.
 
