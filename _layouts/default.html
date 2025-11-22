@@ -137,6 +137,24 @@
             text-decoration: underline;
         }
 
+.rtl-content {
+            direction: rtl !important;
+            text-align: right !important;
+        }
+        
+        .rtl-content * {
+            direction: rtl !important;
+            text-align: right !important;
+        }
+        
+        .rtl-content ol,
+        .rtl-content ul {
+            padding-right: 2rem !important;
+            padding-left: 0 !important;
+            margin-right: 0 !important;
+            margin-left: 0 !important;
+        }
+        
         @media (max-width: 768px) {
             .nav-menu {
                 flex-direction: column;
