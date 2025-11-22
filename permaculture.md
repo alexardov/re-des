@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Permaculture
+permalink: /permaculture/
 ---
 
 # Permaculture
@@ -19,4 +20,5 @@ An ethical, resilient design system that works with natural systems to create ab
 - [European Permaculture Network](https://permaculture-network.eu/)
 - [Permacultura Íbera](https://www.permaculturaibera.org/)
 - [European Permaculture Teachers (EPT) partnership](https://permateachers.eu/)
+
 - [Youth in Permaculture](https://www.facebook.com/youthinpermaculture/)
