@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: rtl
 title: A Solarpunk Manifesto (Farsi)
 permalink: /a-solarpunk-manifesto-farsi/
+lang: fa
 ---
 
 [دیگر زبان ها](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
@@ -91,3 +92,4 @@ permalink: /a-solarpunk-manifesto-farsi/
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
