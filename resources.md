@@ -33,7 +33,7 @@ permalink: /resources/
 
 ## Permaculture
 
-[![PDTree – Permaculture Tree 4.3]({{ '/assets/images/PDTree-Permaculture-Tree-4-3.png' | relative_url }})]({{ '/assets/images/PDTree-Permaculture-Tree-4-3.png' | relative_url }})
+[![PDTree – Permaculture Tree 4.3]({{ '/assets/images/PDTree-Permaculture-Tree-4.3.png' | relative_url }})]({{ '/assets/images/PDTree-Permaculture-Tree-4.3.png' | relative_url }})
 
 *PDTree – Permaculture Tree 4.3*
 
@@ -117,3 +117,4 @@ permalink: /resources/
 
 </div>
 </div>
+
