@@ -9,11 +9,21 @@ permalink: /resources/
   margin-bottom: 3rem;
 }
 
+.resource-section img {
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+}
+
 @media (min-width: 768px) {
   .resources-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
+  }
+  
+  .resource-section img {
+    max-width: 300px;
   }
 }
 </style>
