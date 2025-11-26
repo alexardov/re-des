@@ -45,7 +45,7 @@ Sociocracy, or Dynamic Governance, is a system of governance of groups, regardle
 
 ## Understanding the Sociocracy Mind Map
 
-<img src="{{ '/assets/images/Sociocracy 24.10.2023 COLORS CC.png' | relative_url }}" alt="Sociocracy Mind Map" style="max-width: 600px; width: 100%; height: auto; margin: 1.5rem 0;">
+<img src="{{ '/assets/images/Sociocracy-Mind-Map.png' | relative_url }}" alt="Sociocracy Mind Map" style="max-width: 600px; width: 100%; height: auto; margin: 1.5rem 0;">
 
 This mind map is made up of bubbles, lines and arrows.
 
