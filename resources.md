@@ -117,4 +117,3 @@ permalink: /resources/
 
 </div>
 </div>
-
