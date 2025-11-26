@@ -102,18 +102,18 @@ permalink: /resources/
 
 *We The Free – Vegan Curiosi-Tea*
 
-[![La Rueda]({{ '/assets/images/La Rueda - portada.jpg' | relative_url }})]({{ '/producto/la-rueda/' | relative_url }})
+[![La Rueda]({{ '/assets/images/La Rueda - portada.jpg' | relative_url }})]({{ '/re-des.org/la-rueda/' | relative_url }})
 
-*[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/producto/la-rueda/)*
+*[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/re-des.org/la-rueda/)*
 
 [![Cono de Futuros]({{ '/assets/images/Cono-de-futuros.png' | relative_url }})]({{ '/assets/images/Cono-de-futuros.png' | relative_url }})
 
 *Cono de Futuros*
 
-### Video & Presentations
+### Videos
 
 - [Presentation: Solarpunk and Permaculture, Designing a Solar Future – ETH Prague 2023](https://www.youtube.com/watch?v=RQjnJx0PaGU&ab_channel=DuctTapeProduction)
-- [Presentación: Solarpunk y Permacultura – Hackmeeting 2022]({{ '/assets/presentations/Presentacion-Solarpunk-y-Permacultura-Hackmeeting-2022.pptx' | relative_url }})
+- [Presentación: Solarpunk y Permacultura – Hackmeeting 2022](https://www.youtube.com/watch?v=BPHCjgF7NQw)
 
 </div>
 </div>
