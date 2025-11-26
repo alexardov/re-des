@@ -102,9 +102,9 @@ permalink: /resources/
 
 *We The Free – Vegan Curiosi-Tea*
 
-[![La Rueda]({{ '/assets/images/La Rueda - portada.jpg' | relative_url }})]({{ '/re-des.org/la-rueda/' | relative_url }})
+[![La Rueda]({{ '/assets/images/La Rueda - portada.jpg' | relative_url }})]({{ '/la-rueda/' | relative_url }})
 
-*[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/re-des.org/la-rueda/)*
+*[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/la-rueda/)*
 
 [![Cono de Futuros]({{ '/assets/images/Cono-de-futuros.png' | relative_url }})]({{ '/assets/images/Cono-de-futuros.png' | relative_url }})
 
@@ -117,3 +117,4 @@ permalink: /resources/
 
 </div>
 </div>
+
