@@ -26,7 +26,7 @@ Sociocracy, or Dynamic Governance, is a system of governance of groups, regardle
 
 <img src="{{ '/assets/images/Estructura-PI-8-Anillos.png' | relative_url }}" alt="The sociocratic structure of Permacultura Íbera" style="max-width: 500px; width: 100%; height: auto; margin: 1.5rem 0;">
 
-*The sociocratic structure of [Permacultura Íbera](http://www.permaculturaibera.org/) in which the Circles take the names of Rings.*
+*The sociocratic structure of Permacultura Íbera (The Spanish Permaculture group) in which the Circles take the names of Rings.*
 
 1. **Consent decision making**. In sociocracy a distinction is made between political decisions (policies that affect the functioning of the group) and operational decisions. Consent is used for political decisions. Perfection is not sought. The decisions have to be **good enough for now and safe enough to try**. If there are no rational, logical and valid reasons to object to a proposal, it becomes a decision. A decision always has a review date (usually after six months).
 
