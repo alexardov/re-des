@@ -62,19 +62,27 @@ permalink: /resources/
 
 ## Permaculture
 
-[![PDTree – Permaculture Tree 4.3](/assets/images/PDTree-Permaculture-Tree-4.3.png)](/assets/images/PDTree-Permaculture-Tree-4.3.png)
+<a href="/assets/images/PDTree-Permaculture-Tree-4.3.png">
+  <img src="/assets/images/PDTree-Permaculture-Tree-4.3.png" alt="PDTree – Permaculture Tree 4.3">
+</a>
 
 *PDTree – Permaculture Tree 4.3*
 
-[![Permaculture Sunflower](/assets/images/Permaculture Sunflower.png)](/assets/images/Permaculture Sunflower.png)
+<a href="/assets/images/Permaculture Sunflower.png">
+  <img src="/assets/images/Permaculture Sunflower.png" alt="Permaculture Sunflower">
+</a>
 
 *Permaculture Sunflower*
 
-[![Permaculture: from Ethics to Techniques](/assets/images/From-Ethics-to-Techniques-MIND-MAP.png)](/assets/images/From-Ethics-to-Techniques-MIND-MAP.png)
+<a href="/assets/images/From-Ethics-to-Techniques-MIND-MAP.png">
+  <img src="/assets/images/From-Ethics-to-Techniques-MIND-MAP.png" alt="Permaculture: from Ethics to Techniques">
+</a>
 
 *Permaculture: from Ethics to Techniques*
 
-[![The Wheel – SpEmBoM – Permaculture Design System](/assets/images/The-Wheel-SpEmBoM.png)](/assets/images/The-Wheel-SpEmBoM.png)
+<a href="/assets/images/The-Wheel-SpEmBoM.png">
+  <img src="/assets/images/The-Wheel-SpEmBoM.png" alt="The Wheel – SpEmBoM – Permaculture Design System">
+</a>
 
 *The Wheel – SpEmBoM – Permaculture Design System*
 
@@ -97,19 +105,27 @@ permalink: /resources/
 
 ## Sociocracy
 
-[![Sociocracy – Mind Map](/assets/images/Sociocracy-Mind-Map.png)](/assets/images/Sociocracy-Mind-Map.png)
+<a href="/assets/images/Sociocracy-Mind-Map.png">
+  <img src="/assets/images/Sociocracy-Mind-Map.png" alt="Sociocracy – Mind Map">
+</a>
 
 *Sociocracy – Mind Map*
 
-[![Proposed structure for Permacultura Íbera](/assets/images/Estructura-PI-8-Anillos.png)](/assets/images/Estructura-PI-8-Anillos.png)
+<a href="/assets/images/Estructura-PI-8-Anillos.png">
+  <img src="/assets/images/Estructura-PI-8-Anillos.png" alt="Proposed structure for Permacultura Íbera">
+</a>
 
 *Proposed structure for Permacultura Íbera*
 
-[![Epic view of the eight Rings, plus the Central Ring](/assets/images/Anillos-cruzados-8-5.png)](/assets/images/Anillos-cruzados-8-5.png)
+<a href="/assets/images/Anillos-cruzados-8-5.png">
+  <img src="/assets/images/Anillos-cruzados-8-5.png" alt="Epic view of the eight Rings, plus the Central Ring">
+</a>
 
 *Epic view of the eight Rings, plus the Central Ring*
 
-[![Real shape of Permacultura Íbera (2020)](/assets/images/Estructura-PI-Anillo-Medio-2020-2.png)](/assets/images/Estructura-PI-Anillo-Medio-2020-2.png)
+<a href="/assets/images/Estructura-PI-Anillo-Medio-2020-2.png">
+  <img src="/assets/images/Estructura-PI-Anillo-Medio-2020-2.png" alt="Real shape of Permacultura Íbera (2020)">
+</a>
 
 *Real shape of Permacultura Íbera (2020)*
 
@@ -119,19 +135,27 @@ permalink: /resources/
 
 [A Solarpunk Manifesto (All the languages)](/a-solarpunk-manifesto-all-the-languages/)
 
-[![The Terra Plena Project](/assets/images/The-Terra-Plena-Project.png)](/assets/images/The-Terra-Plena-Project.png)
+<a href="/assets/images/The-Terra-Plena-Project.png">
+  <img src="/assets/images/The-Terra-Plena-Project.png" alt="The Terra Plena Project">
+</a>
 
 *The Terra Plena Project*
 
-[![We The Free – Vegan Curiosi-Tea](/assets/images/Vegan-Curiosi-Tea-WTF-banner.png)](/assets/images/Vegan-Curiosi-Tea-WTF-banner.png)
+<a href="/assets/images/Vegan-Curiosi-Tea-WTF-banner.png">
+  <img src="/assets/images/Vegan-Curiosi-Tea-WTF-banner.png" alt="We The Free – Vegan Curiosi-Tea">
+</a>
 
 *We The Free – Vegan Curiosi-Tea*
 
-[![La Rueda](/assets/images/La Rueda - portada.jpg)](/producto/la-rueda/)
+<a href="/producto/la-rueda/">
+  <img src="/assets/images/La Rueda - portada.jpg" alt="La Rueda">
+</a>
 
 *[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/producto/la-rueda/)*
 
-[![Cono de Futuros](/assets/images/Cono-de-futuros.png)](/assets/images/Cono-de-futuros.png)
+<a href="/assets/images/Cono-de-futuros.png">
+  <img src="/assets/images/Cono-de-futuros.png" alt="Cono de Futuros">
+</a>
 
 *Cono de Futuros*
 
