@@ -11,8 +11,11 @@ permalink: /resources/
 
 .resource-section img {
   max-width: 100%;
+  max-height: 400px;
+  width: auto;
   height: auto;
   margin: 1rem 0;
+  object-fit: contain;
 }
 
 @media (min-width: 768px) {
@@ -24,6 +27,7 @@ permalink: /resources/
   
   .resource-section img {
     max-width: 300px;
+    max-height: 400px;
   }
 }
 </style>
@@ -102,19 +106,18 @@ permalink: /resources/
 
 *We The Free – Vegan Curiosi-Tea*
 
-[![La Rueda]({{ '/assets/images/La Rueda - portada.jpg' | relative_url }})]({{ '/la-rueda/' | relative_url }})
+[![La Rueda]({{ '/assets/images/La Rueda - portada.jpg' | relative_url }})]({{ '/producto/la-rueda/' | relative_url }})
 
-*[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/la-rueda/)*
+*[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/producto/la-rueda/)*
 
 [![Cono de Futuros]({{ '/assets/images/Cono-de-futuros.png' | relative_url }})]({{ '/assets/images/Cono-de-futuros.png' | relative_url }})
 
 *Cono de Futuros*
 
-### Videos
+### Video & Presentations
 
 - [Presentation: Solarpunk and Permaculture, Designing a Solar Future – ETH Prague 2023](https://www.youtube.com/watch?v=RQjnJx0PaGU&ab_channel=DuctTapeProduction)
-- [Presentación: Solarpunk y Permacultura – Hackmeeting 2022](https://www.youtube.com/watch?v=BPHCjgF7NQw)
+- [Presentación: Solarpunk y Permacultura – Hackmeeting 2022]({{ '/assets/presentations/Presentacion-Solarpunk-y-Permacultura-Hackmeeting-2022.pptx' | relative_url }})
 
 </div>
 </div>
-
