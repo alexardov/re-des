@@ -11,7 +11,7 @@ permalink: /la-rueda/
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; margin: 3rem 0;">
 
 <div>
-<img src="/assets/images/La Rueda - portada.jpg" alt="La Rueda book cover" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="/assets/images/0. portada.jpg" alt="La Rueda book cover" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 <!-- Gallery thumbnails -->
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; margin-top: 1rem;">
@@ -116,4 +116,5 @@ El papel utilizado para la impresión del libro ha sido fabricado a partir de ma
 </div>
 
 </div>
+
 
