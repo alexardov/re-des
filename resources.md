@@ -33,7 +33,7 @@ permalink: /resources/
 
 ## Permaculture
 
-[![PDTree – Permaculture Tree 4.3]({{ '/assets/images/PDTree-Permaculture-Tree-4.3.png' | relative_url }})]({{ '/assets/images/PDTree-Permaculture-Tree-4.3.png' | relative_url }})
+[![PDTree – Permaculture Tree 4.3]({{ 'assets/images/PDTree - Permaculture Tree 4.3 50x50.png' | relative_url }})]({{ 'assets/images/PDTree - Permaculture Tree 4.3 50x50.png' | relative_url }})
 
 *PDTree – Permaculture Tree 4.3*
 
@@ -45,7 +45,7 @@ permalink: /resources/
 
 *Permaculture: from Ethics to Techniques*
 
-[![The Wheel – SpEmBoM – Permaculture Design System]({{ '/assets/images/The-Wheel-SpEmBoM.png' | relative_url }})]({{ '/assets/images/The-Wheel-SpEmBoM.png' | relative_url }})
+[![The Wheel – SpEmBoM – Permaculture Design System]({{ 'assets/images/SpEmBoM  2023.05.22 - REFLECTION.png' | relative_url }})]({{ 'assets/images/SpEmBoM  2023.05.22 - REFLECTION.png' | relative_url }})
 
 *The Wheel – SpEmBoM – Permaculture Design System*
 
@@ -102,9 +102,9 @@ permalink: /resources/
 
 *We The Free – Vegan Curiosi-Tea*
 
-[![La Rueda]({{ '/assets/images/La Rueda - portada.jpg' | relative_url }})]({{ '/producto/la-rueda/' | relative_url }})
+[![La Rueda]({{ 'assets/images/0. portada.jpg' | relative_url }})]({{ '/la-rueda/' | relative_url }})
 
-*[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/producto/la-rueda/)*
+*[Una novel·la il·lustrada sobre Permacultura en clave Solarpunk](/la-rueda/)*
 
 [![Cono de Futuros]({{ '/assets/images/Cono-de-futuros.png' | relative_url }})]({{ '/assets/images/Cono-de-futuros.png' | relative_url }})
 
@@ -117,3 +117,4 @@ permalink: /resources/
 
 </div>
 </div>
+
