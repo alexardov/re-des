@@ -18,7 +18,7 @@ Permaculture brings together the wisdom of many pre-colonization societies aroun
 
 The objective of those who dedicate themselves to permaculture is to design and implement humanized agricultural and social, political and economic systems based on natural **patterns**. By imitating natural ecosystems, humanized systems will be abundant and resilient. They will have the ability to resist external shocks and become stronger after them.
 
-![Permaculture Ethics (visualization by David Holmgren)](/wp-content/uploads/2023/10/permaculture-ethics-1024x1024.png)
+![Permaculture Ethics (visualization by David Holmgren)](/assets/images/permaculture-ethics-1024x1024.png)
 
 Permaculture is an ethical system of **ecology** applied to **design**.
 
