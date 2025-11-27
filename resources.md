@@ -2,8 +2,63 @@
 layout: page
 title: Resources
 permalink: /resources/
-custom_css: resources
 ---
+
+<style>
+.main-content h2 {
+  color: #2c5530;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid #4a7c59;
+}
+
+.main-content h3 {
+  color: #4a7c59;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.main-content img {
+  max-width: 300px;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+  margin: 1rem 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  object-fit: contain;
+}
+
+.main-content em {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .main-content {
+    column-count: 3;
+    column-gap: 2rem;
+  }
+  
+  .main-content h2 {
+    break-before: column;
+  }
+  
+  .main-content hr {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .main-content img {
+    max-width: 100%;
+  }
+}
+</style>
 
 ## Permaculture
 
