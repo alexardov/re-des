@@ -37,7 +37,9 @@ permalink: /resources/
 
 ## Permaculture
 
-[![PDTree – Permaculture Tree 4.3]({{ '/assets/images/PDTree-Permaculture-Tree-4.3.png' | relative_url }})]({{ '/assets/images/PDTree-Permaculture-Tree-4.3.png' | relative_url }})
+<a href="{{ '/assets/images/PDTree-Permaculture-Tree-4.3.png' | relative_url }}">
+  <img src="{{ '/assets/images/PDTree-Permaculture-Tree-4.3.png' | relative_url }}" alt="PDTree – Permaculture Tree 4.3">
+</a>
 
 *PDTree – Permaculture Tree 4.3*
 
@@ -49,7 +51,9 @@ permalink: /resources/
 
 *Permaculture: from Ethics to Techniques*
 
-[![The Wheel – SpEmBoM – Permaculture Design System]({{ '/assets/images/The-Wheel-SpEmBoM.png' | relative_url }})]({{ '/assets/images/The-Wheel-SpEmBoM.png' | relative_url }})
+<a href="{{ '/assets/images/The-Wheel-SpEmBoM.png' | relative_url }}">
+  <img src="{{ '/assets/images/The-Wheel-SpEmBoM.png' | relative_url }}" alt="The Wheel – SpEmBoM – Permaculture Design System">
+</a>
 
 *The Wheel – SpEmBoM – Permaculture Design System*
 
