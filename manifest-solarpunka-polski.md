@@ -6,6 +6,8 @@ permalink: /manifest-solarpunka-polski/
 
 _Przetłumaczone przez [Pawła Ngei](https://alxd.org/manifest-solarpunka-pl.html), Martynę Łysiakiewicz_
 
+[inne języki](/solarpunk-manifesto/)
+
 ## Wstęp od tłumaczy
 
 Solarpunk jest gatunkiem usiłującym zredefiniować nasze opowieści, wyjść poza ograniczenia poznawcze i językowe znacznej większości fikcji drugiej połowy XX i XXI wieku. Bardzo mocno bazuje na koncepcie sustainability, które niestety nie ma bezpośredniego odpowiednika w języku polskim. W słowniku możemy znaleźć termin „zrównoważony rozwój” pochodzący raczej z narracji korporacyjnych i kapitalistycznych; samo sustainability żadnego rozwoju w sobie nie zawiera. Jest w nim równowaga, harmonia, jest możliwość długotrwałego, samodzielnego podtrzymania swojego stanu: samopodtrzymywalność czy samoutrzymywalność. Jest w nim coś z żywej homeostazy i ekologii bardziej niż ekonomii czy cybernetyki.
@@ -102,6 +104,7 @@ Solarpunk jest jednocześnie wizją przyszłości, wnikliwą prowokacją, stylem
 
 
 Ten utwór jest dostępny na [licencji Creative Commons Uznanie autorstwa-Na tych samych warunkach 4.0 Międzynarodowe](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
