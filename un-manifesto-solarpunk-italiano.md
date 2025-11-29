@@ -8,7 +8,7 @@ permalink: /un-manifesto-solarpunk-italiano/
 
 *Tradotto da Alessandro Ardovini e Andrea Ardovini*
 
-[altre lingue](solarpunk-manifesto.html)
+[altre lingue](/solarpunk-manifesto/)
 
 Nell'ultima decina d'anni, molte persone hanno scritto sul solarpunk. Soprattutto dopo il 2014. 
 
@@ -65,5 +65,6 @@ Il solarpunk è allo stesso tempo una visione del futuro, una provocazione pensa
 *La Comunità Solarpunk*
 
 Quest'opera è distribuita con Licenza [Creative Commons Attribuzione – Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
