@@ -8,7 +8,7 @@ permalink: /a-solarpunk-manifesto-chinese/
 
 高玮明 译
 
-[其他语言](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[其他语言](/solarpunk-manifesto/)
 
 许多人在过去十余年当中进行过太阳朋克写作，其中大部分都是在2014年之后。
 
@@ -98,5 +98,6 @@ _\_太阳朋克社群\__‘
 
 
 [![Image 13: Licenza Creative Commons](https://web.archive.org/web/20250207061053im_/https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/) 本作品采用[知识共享署名-相同方式共享4.0国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)。
+
 
 
