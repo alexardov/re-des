@@ -8,7 +8,7 @@ permalink: /solarpunk-manifestosu-turkce/
 
 _Çeviren: Şahin Davoodian_
 
-[Diğer diller](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[Diğer diller](/solarpunk-manifesto/)
 
 Son 10+ yılda birçok kişi Solarpunk hakkında yazdı. Çoğunlukla 2014’ten sonra.
 
@@ -119,6 +119,7 @@ _Solarpunk toplumu_
 
 
 Bu eser [Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı](http://creativecommons.org/licenses/by-sa/4.0/) ile lisanslanmıştır.
+
 
 
 
