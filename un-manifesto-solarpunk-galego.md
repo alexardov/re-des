@@ -8,7 +8,7 @@ permalink: /un-manifesto-solarpunk-galego/
 
 _Traducido por Alessandro Ardovini e Eduard Velasco_
 
-[outros idiomas](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[outros idiomas](/solarpunk-manifesto/)
 
 Moita xente escribiu sobre solarpunk nas últimas décadas. Principalmente despois de 2014.
 
@@ -101,4 +101,5 @@ _A Comunitade Solarpunk_
 
 
 Esta obra ten unha licenza Creative Commons [Atribución-Compartir igual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
