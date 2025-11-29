@@ -6,7 +6,7 @@ permalink: /a-solarpunk-manifesto/
 
 # Solarpunk
 
-[other languages](/solarpunk-manifesto-all-languages/)
+[other languages](/solarpunk-manifesto/)
 
 Many people have written about Solarpunk during the last 10+ years. Mostly after 2014.
 
@@ -65,3 +65,4 @@ Solarpunk is at once a vision of the future, a thoughtful provocation, a way of 
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
