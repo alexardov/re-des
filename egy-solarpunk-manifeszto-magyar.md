@@ -8,7 +8,7 @@ permalink: /egy-solarpunk-manifeszto-magyar/
 
 _Fordította Varga Jácint_
 
-[Más nyelvek](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[Más nyelvek](/solarpunk-manifesto/)
 
 Sokan írtak a a Solarpunkról az elmúlt 10+ évben. Leginkább 2014 után.
 
@@ -101,6 +101,7 @@ _A Solarpunk közösség_
 
 
 Ez a Mű a [Creative Commons Nevezd meg! – Így add tovább! 4.0 Nemzetközi Licenc](http://creativecommons.org/licenses/by-sa/4.0/) feltételeinek megfelelően felhasználható.
+
 
 
 
