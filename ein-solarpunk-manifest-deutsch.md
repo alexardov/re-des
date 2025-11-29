@@ -6,6 +6,8 @@ permalink: /ein-solarpunk-manifest-deutsch/
 
 _Übersetzt von Martin Schweizer_ _und Martin Ponweiser_
 
+[andere Sprachen](/solarpunk-manifesto/)
+
 Viele Leute haben in den letzten 10+ Jahren über Solarpunk geschrieben. Meistens nach 2014.
 
 Das Genre ist noch nicht klar definiert.
@@ -95,5 +97,6 @@ _Die Solarpunk-Community_
 
 
 Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
