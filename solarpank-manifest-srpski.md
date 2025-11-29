@@ -8,7 +8,7 @@ permalink: /solarpank-manifest-srpski/
 
 _Prevela Marina C._
 
-[ostali jezici](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[ostali jezici](/solarpunk-manifesto/)
 
 Mnogi su pisali o Solarpanku tokom poslednjih 10 i više godina. Naročito posle 2014-e. Žanr još uvek nije jasno definisan. Ovaj Solarpank Manifestje kreativna readaptacija ideja solarpanka pisanih od stane mnogih ljudi. Ove ideje se uglavnom mogu naći u _Solarpunk: a reference guide (Solarpank: referentni vodič)_ koji se može naći [ovde](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) i u _Solarpunk: Notes towards a Manifesto (Solarpank: Beleške prema Manifestu)_ od Adam-a Flynn-a, može se naći [ovde](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/).
 
@@ -97,5 +97,6 @@ _Solarpank Zajednica_
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
