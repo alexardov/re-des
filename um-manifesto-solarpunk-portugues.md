@@ -9,7 +9,7 @@ permalink: /um-manifesto-solarpunk-portugues/
 
 _Traduzido por Vinicius Yaunner_
 
-[outros idiomas](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[outros idiomas](/solarpunk-manifesto/)
 
 Muitas pessoas têm escrito a sobre Solarpunk. Principalmente depois de 2014.
 
@@ -99,6 +99,7 @@ Solarpunk é ao mesmo tempo uma visão do futuro, uma provocação ponderada, um
 
 
 Este obra está licenciado com uma Licença [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
