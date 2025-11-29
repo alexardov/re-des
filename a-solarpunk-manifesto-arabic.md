@@ -7,7 +7,7 @@ lang: ar
 
 # A Solarpunk Manifesto (Arabic)
 
-[اقرأ بلغاتٍ أخرى](https://web.archive.org/web/20241201233726/http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[اقرأ بلغاتٍ أخرى](/solarpunk-manifesto/)
 
 # سولار بانك
 
@@ -106,6 +106,7 @@ lang: ar
 
 
 هذا المُصنَّف مرخص بموجب [رخصة المشاع الإبداعي نَسب المُصنَّف – الترخيص بالمثل 4.0 دولي](https://web.archive.org/web/20241201233726/http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
