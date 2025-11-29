@@ -9,7 +9,7 @@ permalink: /solarpunkovy-manifest-slovensky/
 
 _Preložila Svetlana Bardos_
 
-[INÉ JAZYKY](https://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[INÉ JAZYKY](/solarpunk-manifesto/)
 
 Za posledných viac ako 10 rokov písalo o Solarpunku veľa ľudí. Najviac však po roku 2014.
 
@@ -104,5 +104,6 @@ _Spoločnosť Solarpunk_
 
 
 Toto dielo je licencované pod a [Medzinárodná licencia Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
