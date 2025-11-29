@@ -9,7 +9,7 @@ permalink: /un-manifest-solarpunk-catala/
 
 _Traduït per Mia Igual Aguilar i Alessandro Ardovini_
 
-[altres idiomes](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[altres idiomes](/solarpunk-manifesto/)
 
 Durant els últims deu anys, o més, moltes persones han escrit sobre solarpunk. Sobretot després de 2014.
 
@@ -100,4 +100,5 @@ _La Comunitat Solarpunk_
 
 
 Aquesta obra està subjecta a una llicència de [Reconeixement-CompartirIgual 4.0 Internacional de Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/)
+
 
