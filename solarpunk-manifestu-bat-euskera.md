@@ -8,7 +8,7 @@ permalink: /solarpunk-manifestu-bat-euskera/
 
 _Traducido por Gorka Julio_
 
-[beste hizkuntza batzuk](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[beste hizkuntza batzuk](/solarpunk-manifesto/)
 
 Azken hamar urte edo gehiagotan, jende askok idatzi du solarpunkari buruz. Bereziki, 2014az geroztik.
 
@@ -101,5 +101,6 @@ _Solarpunk komunitatea_
 
 
 lan hau [Creative Commons Aitortu-PartekatuBerdin 4.0 Nazioartekoa lizentzia](http://creativecommons.org/licenses/by-sa/4.0/) baten mende dago.
+
 
 
