@@ -6,6 +6,8 @@ permalink: /un-manifest-solarpunk-francais/
 
 _Traduit par Matthieu C._
 
+[Autres langues](/solarpunk-manifesto/)
+
 Beaucoup ont écrit à propos du Solarpunk durant les dernières décennies et en particulier depuis 2014, pourtant le genre n’est pas encore clairement défini.
 
 Ce Manifeste Solarpunk est une réadaptation créative des idées écrites par de nombreuses personnes sur le Solarpunk. Ces idées peuvent être principalement retrouvées dans Solarpunk: a reference guide lisible [ici](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) et dans Solarpunk: Notes towards a Manifesto par Adam Flynn, qui peut être lu [ici](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/).
@@ -93,6 +95,7 @@ _La Communauté Solarpunk_
 
 
 Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution – Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
