@@ -5,7 +5,7 @@ permalink: /a-solarpunk-manifesto-farsi/
 lang: fa
 ---
 
-[دیگر زبان ها](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[دیگر زبان ها](/solarpunk-manifesto/)
 
 # سولارپانک
 
@@ -92,4 +92,5 @@ lang: fa
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
