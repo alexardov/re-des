@@ -50,6 +50,7 @@
             display: flex;
             list-style: none;
             gap: 2rem;
+            flex-wrap: wrap;
         }
 
         .nav-menu a {
@@ -58,6 +59,7 @@
             padding: 0.5rem 1rem;
             border-radius: 4px;
             transition: background-color 0.3s;
+            white-space: nowrap;
         }
 
         .nav-menu a:hover {
@@ -225,8 +227,14 @@
         
         @media (max-width: 768px) {
             .nav-menu {
-                flex-direction: column;
+                flex-direction: row;
                 gap: 0.5rem;
+                justify-content: center;
+                font-size: 0.9rem;
+            }
+            
+            .nav-menu a {
+                padding: 0.4rem 0.6rem;
             }
 
             .nav-container {
@@ -236,15 +244,16 @@
 
             .hero-buttons {
                 grid-template-columns: 1fr;
+                gap: 1rem;
             }
 
             .main-content {
                 padding: 1rem;
             }
-
-            /* Stack resources columns on mobile */
-            .resources-columns {
-                grid-template-columns: 1fr;
+            
+            .hero-button {
+                padding: 1.5rem;
+                font-size: 1rem;
             }
         }
     </style>
