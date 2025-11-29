@@ -6,7 +6,7 @@ permalink: /un-manifest-solarpunk-francais/
 
 _Traduit par Matthieu C._
 
-[Autres langues](/solarpunk-manifesto/)
+[autres langues](/solarpunk-manifesto/)
 
 Beaucoup ont écrit à propos du Solarpunk durant les dernières décennies et en particulier depuis 2014, pourtant le genre n’est pas encore clairement défini.
 
@@ -95,6 +95,7 @@ _La Communauté Solarpunk_
 
 
 Ce(tte) œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution – Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
