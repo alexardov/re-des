@@ -8,7 +8,7 @@ permalink: /ett-solarpunkmanifest-svenska/
 
 _Översatt av Jesper Larsson_
 
-[andra språk](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[andra språk](/solarpunk-manifesto/)
 
 Många har skrivit om solarpunk de senaste 10+ åren. Mestadels efter 2014.
 
@@ -79,6 +79,7 @@ _Solarpunk-gemenskapen_
 [![Image 13: Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Detta verk är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
