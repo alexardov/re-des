@@ -8,7 +8,7 @@ permalink: /a-solarpunk-manifesto-japanese/
 
 _Translated by Shinya Mori_
 
-[他の言語](https://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[他の言語](/solarpunk-manifesto/)
 
 この10数年の間に、ソーラーパンクについて書いている人が多くいます。ほとんどが2014年以降のことです。
 
@@ -101,5 +101,6 @@ _ソーラーパンクコミュニティ_
 
 
 この 作品 は [クリエイティブ・コモンズ 表示 – 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-sa/4.0/)の下に提供されています。
+
 
 
