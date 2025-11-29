@@ -4,6 +4,21 @@ title: What is permaculture
 permalink: /what-is-permaculture/
 ---
 
+<style>
+.main-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5rem auto;
+}
+
+@media (min-width: 769px) {
+    .main-content img {
+        max-width: 600px;
+    }
+}
+</style>
+
 # What is permaculture
 
 ReDes – Regenerative Design offers training, consultancies and designs in permaculture and [sociocracy](/sociocracy/). Click [here](/courses/) to see them.
