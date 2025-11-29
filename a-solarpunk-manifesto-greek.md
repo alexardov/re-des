@@ -6,7 +6,7 @@ permalink: /a-solarpunk-manifesto-greek/
 
 # Solar punk (Ηλιακό πανκ)
 
-[άλλες γλώσσες](solarpunk-manifesto.html)
+[άλλες γλώσσες](/solarpunk-manifesto/)
 
 Πολλοί άνθρωποι έχουν γράψει για το τι εστί solarpank τα τελευταία 10 χρόνια και κυρίως μετά το 2014.
 
@@ -89,4 +89,5 @@ permalink: /a-solarpunk-manifesto-greek/
 
 
 Αυτό το έργο διατίθεται με άδεια [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
 
