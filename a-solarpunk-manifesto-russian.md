@@ -8,7 +8,7 @@ permalink: /a-solarpunk-manifesto-russian/
 
 _Перевод Александра Шабалина_
 
-[Другие языки](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[Другие языки](/solarpunk-manifesto/)
 
 Многие люди писали о соларпанке за последни 10 с лишним лет. В основном после 2014 года.
 
@@ -103,6 +103,7 @@ _Сообщество Solarpunk_
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
