@@ -8,7 +8,7 @@ permalink: /nu-manifestu-solarpunk-sicilianu/
 
 _Traduttu di Salvatore Longhitano_
 
-[àutri lingui](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
+[àutri lingui](/solarpunk-manifesto/)
 
 Assai cristiani ànnu scrivutu supra ô Solarpunk nta l’ùrtima dicina di anni. Supratuttu doppu u 2014.
 
@@ -101,5 +101,6 @@ _La Comunità Solarpunk_
 
 
 Quest’opera è distribuita con Licenza [Creative Commons Attribuzione – Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
