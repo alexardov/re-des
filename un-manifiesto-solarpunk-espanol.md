@@ -3,6 +3,11 @@ layout: default
 title: Un Manifiesto Solarpunk (Español)
 permalink: /un-manifiesto-solarpunk-espanol/
 ---
+# Solarpunk
+
+*Traducido por Ester Galeote Nadal y Alessandro Ardovini*
+
+[otros idiomas](/solarpunk-manifesto/)
 
 Durante los últimos diez años, o más, muchas personas han escrito sobre solarpunk. Sobre todo después de 2014.
 
@@ -89,6 +94,7 @@ El solarpunk es al mismo tiempo una visión del futuro, una provocación reflexi
 _La Comunidad Solarpunk_
 
 Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 
