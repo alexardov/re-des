@@ -19,7 +19,7 @@ permalink: /solarpunk-manifesto/
             <li><a href="/un-manifest-solarpunk-francais/">Français</a></li>
             <li><a href="/un-manifesto-solarpunk-galego/">Galego</a></li>
             <li><a href="/a-solarpunk-manifesto-greek/">Ελληνικά (Greek)</a></li>
-            <li><a href="/et-solarpunk-manifest-dansk/"> Dansk</a></li>
+            <li><a href="/et-solarpunk-manifest-dansk/">Dansk</a></li>
         </ul>
     </div>
     <div>
