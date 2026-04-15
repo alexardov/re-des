@@ -19,11 +19,12 @@ permalink: /solarpunk-manifesto/
             <li><a href="/un-manifest-solarpunk-francais/">Français</a></li>
             <li><a href="/un-manifesto-solarpunk-galego/">Galego</a></li>
             <li><a href="/a-solarpunk-manifesto-greek/">Ελληνικά (Greek)</a></li>
-            <li><a href="/a-solarpunk-manifesto-hebrew/">עברית (Hebrew)</a></li>
+            <li><a href="/et-solarpunk-manifest-dansk/"> Dansk</a></li>
         </ul>
     </div>
     <div>
         <ul style="list-style: none; padding: 0;">
+            <li><a href="/a-solarpunk-manifesto-hebrew/">עברית (Hebrew)</a></li>
             <li><a href="/un-manifesto-solarpunk-italiano/">Italiano</a></li>
             <li><a href="/a-solarpunk-manifesto-japanese/">日本語 (Japanese)</a></li>
             <li><a href="/egy-solarpunk-manifeszto-magyar/">Magyar</a></li>
