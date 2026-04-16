@@ -27,59 +27,39 @@ Solarpunk kan være utopisk, blot optimistisk eller optaget af udfordringerne p�
 
 Solarpunk er på én gang en vision for fremtiden, en tankevækkende provokation, en måde at leve på og et sæt opnåelige forslag til at nå dertil.
 
-Vi er solarpunks, fordi optimismen er blevet taget fra os, og vi prøver at tage den tilbage.
-Vi er solarpunks, fordi de eneste andre muligheder er fornægtelse eller fortvivlelse.
-
-I sin kerne er Solarpunk en vision om en fremtid, der repræsenterer det bedste af, hvad menneskeheden kan opnå: en post-knaphed, post-hierarkisk, post-kapitalistisk verden, hvor menneskeheden ser sig selv som en del af naturen, og hvor ren energi erstatter fossile brændstoffer.
-
-"Punken" i Solarpunk handler om oprør, modkultur, postkapitalisme, afkolonialisme og entusiasme. Det handler om at gå i en anden retning end mainstreamen, der i stigende grad går i en skræmmende retning.
-
-Solarpunk er lige så meget en bevægelse, som det er en genre: det handler ikke kun om historierne, det handler også om, hvordan vi kan nå dertil.
-
-Solarpunk omfavner mange forskellige tilgange: der er ikke én rigtig måde at være solarpunk på. I stedet tager forskellige samfund fra hele verden navnet og ideerne til sig og bygger små fællesskaber af selvbærende revolution.
-
-Solarpunk tilbyder et værdifuldt nyt perspektiv, et paradigme og et ordforråd, hvorigennem man kan beskrive én mulig fremtid. I stedet for at omfavne retrofuturisme ser solarpunk udelukkende fremad. Ikke en alternativ fremtid, men en mulig fremtid.
-
-Vores futurisme er ikke nihilistisk som cyberpunk, og den undgår steampunks potentielt kvasi-reaktionære tendenser: den handler om opfindsomhed, skaberkraft, uafhængighed og fællesskab.
-
-Solarpunk lægger vægt på miljømæssig bæredygtighed og social retfærdighed.
-
-Solarpunk handler om at finde måder at gøre livet mere vidunderligt for os lige nu, og også for de generationer, der følger os.
-
-Vores fremtid skal involvere genbrug og skabelse af nye ting ud fra det, vi allerede har. Forestil dig, at "smarte byer" bliver skrottet til fordel for handlekraftige borgere.
-
-Solarpunk anerkender den historiske indflydelse, politik og science fiction har haft på hinanden.
-
-Solarpunk anerkender science fiction ikke blot som underholdning, men som en form for aktivisme.
-
-Solarpunk ønsker at modvirke scenarierne med en døende jord, en uoverstigelig kløft mellem rig og fattig og et samfund kontrolleret af virksomheder. Ikke om hundreder af år, men inden for rækkevidde.
-
-Solarpunk handler om skaber-kultur blandt unge, lokale løsninger, lokale energinet og måder at skabe autonomt fungerende systemer på. Det handler om at elske verden.
-
-Solarpunk-kulturen omfatter alle kulturer, religioner, kropslige og mentale forudsætninger, køn, identiteter og seksualitet.
-
-Solarpunk er ideen om, at menneskeheden opnår en social udvikling, der ikke blot omfatter tolerance, men en mere omfattende medfølelse og accept.
-
-Solarpunks visuelle æstetik er åben og under udvikling. Som det ser ud nu, er det en blanding af:
-- 1800-tallets sejltid/grænseliv (men med flere cykler)
-- Kreativ genbrug af eksisterende infrastruktur (nogle gange postapokalyptisk, nogle gange nutidigt med et twist)
-- Hensigtsmæssig teknologi
-- Art Nouveau
-- Hayao Miyazaki
-- Jugaad-lignende innovation fra den ikke-vestlige verden
-- Højteknologiske backends med enkle, elegante output
-
-Solarpunk foregår i en fremtid bygget efter principperne om ny urbanisme eller ny fodgængerisme og miljømæssig bæredygtighed.
-
-Solarpunk forestiller sig et byggemiljø, der er kreativt tilpasset til solenergi, blandt andet ved hjælp af forskellige teknologier. Målet er at fremme selvforsyning og leve inden for naturens grænser.
-
-I Solarpunk har vi trukket os tilbage lige i tide til at stoppe den langsomme ødelæggelse af vores planet. Vi har lært at bruge videnskaben til at forbedre vores livsvilkår som en del af vores planet. Vi er ikke længere overherrer. Vi er omsorgsgivere. Vi er gartnere.
-
-Solarpunk:
-- er mangfoldig
-- har plads til, at spiritualitet og videnskab kan sameksistere
-- er smuk
-- kan blive virkelighed. Nu
+1. Vi er solarpunks, fordi optimismen er blevet taget fra os, og vi prøver at tage den tilbage.
+2. Vi er solarpunks, fordi de eneste andre muligheder er fornægtelse eller fortvivlelse.
+3. I sin kerne er Solarpunk en vision om en fremtid, der repræsenterer det bedste af, hvad menneskeheden kan opnå: en post-knaphed, post-hierarkisk, post-kapitalistisk verden, hvor menneskeheden ser sig selv som en del af naturen, og hvor ren energi erstatter fossile brændstoffer.
+4. "Punken" i Solarpunk handler om oprør, modkultur, postkapitalisme, afkolonialisme og entusiasme. Det handler om at gå i en anden retning end mainstreamen, der i stigende grad går i en skræmmende retning.
+5. Solarpunk er lige så meget en bevægelse, som det er en genre: det handler ikke kun om historierne, det handler også om, hvordan vi kan nå dertil.
+6. Solarpunk omfavner mange forskellige tilgange: der er ikke én rigtig måde at være solarpunk på. I stedet tager forskellige samfund fra hele verden navnet og ideerne til sig og bygger små fællesskaber af selvbærende revolution.
+7. Solarpunk tilbyder et værdifuldt nyt perspektiv, et paradigme og et ordforråd, hvorigennem man kan beskrive én mulig fremtid. I stedet for at omfavne retrofuturisme ser solarpunk udelukkende fremad. Ikke en alternativ fremtid, men en mulig fremtid.
+8. Vores futurisme er ikke nihilistisk som cyberpunk, og den undgår steampunks potentielt kvasi-reaktionære tendenser: den handler om opfindsomhed, skaberkraft, uafhængighed og fællesskab.
+9. Solarpunk lægger vægt på miljømæssig bæredygtighed og social retfærdighed.
+10. Solarpunk handler om at finde måder at gøre livet mere vidunderligt for os lige nu, og også for de generationer, der følger os.
+11. Vores fremtid skal involvere genbrug og skabelse af nye ting ud fra det, vi allerede har. Forestil dig, at "smarte byer" bliver skrottet til fordel for handlekraftige borgere.
+12. Solarpunk anerkender den historiske indflydelse, politik og science fiction har haft på hinanden.
+13. Solarpunk anerkender science fiction ikke blot som underholdning, men som en form for aktivisme.
+14. Solarpunk ønsker at modvirke scenarierne med en døende jord, en uoverstigelig kløft mellem rig og fattig og et samfund kontrolleret af virksomheder. Ikke om hundreder af år, men inden for rækkevidde.
+15. Solarpunk handler om skaber-kultur blandt unge, lokale løsninger, lokale energinet og måder at skabe autonomt fungerende systemer på. Det handler om at elske verden.
+16. Solarpunk-kulturen omfatter alle kulturer, religioner, kropslige og mentale forudsætninger, køn, identiteter og seksualitet.
+17. Solarpunk er ideen om, at menneskeheden opnår en social udvikling, der ikke blot omfatter tolerance, men en mere omfattende medfølelse og accept.
+18. Solarpunks visuelle æstetik er åben og under udvikling. Som det ser ud nu, er det en blanding af følgende:
+    1. 1800-tallets sejltid/grænseliv (men med flere cykler)
+    2. Kreativ genbrug af eksisterende infrastruktur (nogle gange postapokalyptisk, nogle gange nutidigt med et twist)
+    3. Hensigtsmæssig teknologi
+    4. Art Nouveau
+    5. Hayao Miyazaki
+    6. Jugaad-lignende innovation fra den ikke-vestlige verden
+    7. Højteknologiske backends med enkle, elegante output
+19. Solarpunk foregår i en fremtid bygget efter principperne om ny urbanisme eller ny fodgængerisme og miljømæssig bæredygtighed.
+20. Solarpunk forestiller sig et byggemiljø, der er kreativt tilpasset til solenergi, blandt andet ved hjælp af forskellige teknologier. Målet er at fremme selvforsyning og leve inden for naturens grænser.
+21. I Solarpunk har vi trukket os tilbage lige i tide til at stoppe den langsomme ødelæggelse af vores planet. Vi har lært at bruge videnskaben til at forbedre vores livsvilkår som en del af vores planet. Vi er ikke længere overherrer. Vi er omsorgsgivere. Vi er gartnere.
+22. Solarpunk:
+    1. er mangfoldig
+    2. har plads til, at spiritualitet og videnskab kan sameksistere
+    3. er smuk
+    4. kan blive virkelighed. Nu
 
 Solarpunk-fællesskabet
 
