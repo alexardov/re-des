@@ -4,21 +4,17 @@ title: Et Solarpunk-manifest (Dansk)
 permalink: /et-solarpunk-manifest-dansk/
 ---
 
-Solarpunk
-Oversat af IMIDLERTID
-[andre sprog]
+# Solarpunk
+
+*Oversat af IMIDLERTID*
+
+[andre sprog](/solarpunk-manifesto/)
 
 Mange mennesker har skrevet om Solarpunk gennem de sidste 10+ år, især efter 2014.
 Genren er endnu ikke ordentligt defineret.
-Dette
-Solarpunk Manifest
-er en kreativ genfortolkning af ideer om solarpunk skrevet af mange mennesker. Disse ideer kan hovedsageligt findes i
-[Solarpunk: a reference guide](https://www.google.com/url?q=https://sunbeamcity.tumblr.com/post/112019650373/this-is-a-compilation-of-pieces-of-writing-that&sa=D&source=editors&ust=1734379254584174&usg=AOvVaw0s_gSLuNLkmpQ8-VPMtS3w)
-og i
-[Solarpunk: Notes towards a Manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
-af Adam Flynn.
+Dette Solarpunk Manifest er en kreativ genfortolkning af ideer om solarpunk skrevet af mange mennesker. Disse ideer kan hovedsageligt findes i [Solarpunk: a reference guide](https://www.google.com/url?q=https://sunbeamcity.tumblr.com/post/112019650373/this-is-a-compilation-of-pieces-of-writing-that&sa=D&source=editors&ust=1734379254584174&usg=AOvVaw0s_gSLuNLkmpQ8-VPMtS3w) og i [Solarpunk: Notes towards a Manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) af Adam Flynn.
 
-Et Solarpunk-manifest
+## Et Solarpunk-manifest
 
 Solarpunk er en bevægelse inden for spekulativ fiktion, kunst, mode og aktivisme, der søger at besvare og legemliggøre spørgsmålet "Hvordan ser en bæredygtig civilisation ud, og hvordan kan vi nå dertil?"
 
@@ -64,6 +60,4 @@ Solarpunk er på én gang en vision for fremtiden, en tankevækkende provokation
 
 Solarpunk-fællesskabet
 
-Dette værk er licenseret under en
-[Creative Commons Kreditering – Del på samme vilkår 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-licens.
+Dette værk er licenseret under en [Creative Commons Kreditering – Del på samme vilkår 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) licens.
