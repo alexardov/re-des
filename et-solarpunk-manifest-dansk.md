@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Et Solarpunk-manifest (Dansk)
+permalink: /et-solarpunk-manifest-dansk/
 ---
 
 Solarpunk
